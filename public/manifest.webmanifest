@@ -1,0 +1,12 @@
+{
+  "name": "Nihongo Nest",
+  "short_name": "Nest",
+  "description": "A little Japanese, a lot of joy.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f4eb",
+  "theme_color": "#35376f",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

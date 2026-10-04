@@ -1,0 +1,499 @@
+{
+  "attribution": "Original project-authored beginner grammar lessons and exercises.",
+  "lessons": [
+    {
+      "id": "g01-desu",
+      "title": "A friendly introduction with です",
+      "summary": "Use です (desu) to say what something is, politely.",
+      "concept": "[Topic] は [description] です。 です makes a sentence polite.",
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Meet です",
+          "body": "です (desu) turns a simple description into a polite sentence. わたしは学生です means ‘I am a student.’",
+          "japanese": "わたしは学生です。",
+          "reading": "Watashi wa gakusei desu.",
+          "meaning": "I am a student."
+        },
+        {
+          "type": "multiple-choice",
+          "prompt": "Which sentence means ‘I am a teacher’?",
+          "options": ["わたしは先生です。", "わたしを先生です。", "先生はわたしを。"],
+          "answer": "わたしは先生です。",
+          "feedback": "Put the person first, then their description, and finish with です."
+        },
+        {
+          "type": "sentence-builder",
+          "prompt": "Build: ‘I am a student.’",
+          "tokens": ["です。", "学生", "わたしは"],
+          "answer": "わたしは学生です。",
+          "translation": "I am a student."
+        },
+        {
+          "type": "tracing",
+          "prompt": "Trace the kana あ before you go.",
+          "character": "あ",
+          "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+        },
+        {
+          "type": "match-pairs",
+          "prompt": "Pair each Japanese particle with its job.",
+          "pairs": [
+            {
+              "left": "は",
+              "right": "Topic"
+            },
+            {
+              "left": "を",
+              "right": "Action target"
+            },
+            {
+              "left": "で",
+              "right": "Action place"
+            }
+          ],
+          "feedback": "Particles are small, but they do a big job!"
+        }
+      ]
+    },
+    {
+      "id": "g02-wa",
+      "title": "Set the topic with は",
+      "summary": "は (wa) marks what your sentence is about.",
+      "concept": "[Topic] は [information] です。 The particle は is written ha, pronounced wa.",
+      "steps": [
+        {
+          "type": "intro",
+          "title": "The topic marker は",
+          "body": "は marks the topic: the thing you’re talking about. In this job, は is pronounced wa.",
+          "japanese": "ねこはかわいいです。",
+          "reading": "Neko wa kawaii desu.",
+          "meaning": "Cats are cute."
+        },
+        {
+          "type": "multiple-choice",
+          "prompt": "Choose the topic marker for ‘As for me, I’m a student.’",
+          "options": ["は (wa)", "を (o)", "で (de)"],
+          "answer": "は (wa)",
+          "feedback": "You found the topic! は tells us who or what the sentence is about."
+        },
+        {
+          "type": "type-answer",
+          "prompt": "Complete: わたし ___ 学生です。 (I am a student.)",
+          "answers": ["は"],
+          "hint": "It is written ha, but said wa."
+        },
+        {
+          "type": "match-pairs",
+          "prompt": "Pair each Japanese particle with its job.",
+          "pairs": [
+            {
+              "left": "は",
+              "right": "Topic"
+            },
+            {
+              "left": "を",
+              "right": "Action target"
+            },
+            {
+              "left": "で",
+              "right": "Action place"
+            }
+          ],
+          "feedback": "Particles are small, but they do a big job!"
+        }
+      ]
+    },
+    {
+      "id": "g03-ga",
+      "title": "Spotlight with が",
+      "summary": "が (ga) marks a subject, often with likes and abilities.",
+      "concept": "[Thing/person] が [liking or existence]. が can spotlight new information.",
+      "steps": [
+        {
+          "type": "intro",
+          "title": "A little spotlight: が",
+          "body": "が marks the subject that does, exists, or is liked. It often answers ‘what?’ or ‘who?’",
+          "japanese": "ねこがいます。",
+          "reading": "Neko ga imasu.",
+          "meaning": "There is a cat."
+        },
+        {
+          "type": "multiple-choice",
+          "prompt": "Which particle belongs in ‘I like music’? わたしは音楽 ___ 好きです。",
+          "options": ["が", "を", "で"],
+          "answer": "が",
+          "feedback": "好きです commonly pairs with が for the thing someone likes."
+        },
+        {
+          "type": "sentence-builder",
+          "prompt": "Build: ‘There is a dog.’",
+          "tokens": ["います。", "犬が"],
+          "answer": "犬がいます。",
+          "translation": "There is a dog."
+        },
+        {
+          "type": "match-pairs",
+          "prompt": "Pair each Japanese particle with its job.",
+          "pairs": [
+            {
+              "left": "は",
+              "right": "Topic"
+            },
+            {
+              "left": "を",
+              "right": "Action target"
+            },
+            {
+              "left": "で",
+              "right": "Action place"
+            }
+          ],
+          "feedback": "Particles are small, but they do a big job!"
+        }
+      ]
+    },
+    {
+      "id": "g04-o",
+      "title": "Give actions an object with を",
+      "summary": "を (o) marks what an action is done to.",
+      "concept": "[Person] は [thing] を [verb]. を is pronounced o.",
+      "steps": [
+        {
+          "type": "intro",
+          "title": "The action’s target を",
+          "body": "を marks the direct object: the thing you read, eat, see, or buy. It is written wo and pronounced o.",
+          "japanese": "本を読みます。",
+          "reading": "Hon o yomimasu.",
+          "meaning": "I read a book."
+        },
+        {
+          "type": "listen-pick",
+          "prompt": "Listen and pick the particle you hear.",
+          "audio": "水を飲みます。",
+          "options": ["を", "に", "が"],
+          "answer": "を",
+          "feedback": "飲みます (drink) acts on water, so を marks it."
+        },
+        {
+          "type": "type-answer",
+          "prompt": "Complete: パン ___ 食べます。 (I eat bread.)",
+          "answers": ["を"],
+          "hint": "Mark the thing being eaten."
+        },
+        {
+          "type": "match-pairs",
+          "prompt": "Pair each Japanese particle with its job.",
+          "pairs": [
+            {
+              "left": "は",
+              "right": "Topic"
+            },
+            {
+              "left": "を",
+              "right": "Action target"
+            },
+            {
+              "left": "で",
+              "right": "Action place"
+            }
+          ],
+          "feedback": "Particles are small, but they do a big job!"
+        }
+      ]
+    },
+    {
+      "id": "g05-ni",
+      "title": "Find a time or destination with に",
+      "summary": "に (ni) can mark when something happens or where you’re going.",
+      "concept": "[Time/place] に [action]. に points to a time or destination.",
+      "steps": [
+        {
+          "type": "intro",
+          "title": "A point in time or place",
+          "body": "に points to a destination or a specific time. Think of it as a little pin on the map or clock.",
+          "japanese": "七時に起きます。",
+          "reading": "Shichi-ji ni okimasu.",
+          "meaning": "I get up at seven."
+        },
+        {
+          "type": "multiple-choice",
+          "prompt": "Choose the particle for ‘I go to school.’ 学校 ___ 行きます。",
+          "options": ["に", "を", "で"],
+          "answer": "に",
+          "feedback": "に marks the destination of 行きます (go). へ can also mark direction."
+        },
+        {
+          "type": "sentence-builder",
+          "prompt": "Build: ‘I meet a friend at three.’",
+          "tokens": ["会います。", "友だちに", "三時に"],
+          "answer": "三時に友だちに会います。",
+          "translation": "I meet a friend at three."
+        },
+        {
+          "type": "match-pairs",
+          "prompt": "Pair each Japanese particle with its job.",
+          "pairs": [
+            {
+              "left": "は",
+              "right": "Topic"
+            },
+            {
+              "left": "を",
+              "right": "Action target"
+            },
+            {
+              "left": "で",
+              "right": "Action place"
+            }
+          ],
+          "feedback": "Particles are small, but they do a big job!"
+        }
+      ]
+    },
+    {
+      "id": "g06-de",
+      "title": "Show where it happens with で",
+      "summary": "で (de) marks where an action takes place or what tool you use.",
+      "concept": "[Place/tool] で [action]. に often marks a destination; で marks the action’s setting.",
+      "steps": [
+        {
+          "type": "intro",
+          "title": "The action setting で",
+          "body": "Use で for the place where an action happens. Use に for a destination or for where something exists.",
+          "japanese": "図書館で本を読みます。",
+          "reading": "Toshokan de hon o yomimasu.",
+          "meaning": "I read a book at the library."
+        },
+        {
+          "type": "multiple-choice",
+          "prompt": "I eat at home: うち ___ 食べます。",
+          "options": ["で", "に", "を"],
+          "answer": "で",
+          "feedback": "Eating is an action happening at home, so で fits."
+        },
+        {
+          "type": "sentence-builder",
+          "prompt": "Build: ‘I study Japanese at school.’",
+          "tokens": ["勉強します。", "学校で", "日本語を"],
+          "answer": "学校で日本語を勉強します。",
+          "translation": "I study Japanese at school."
+        },
+        {
+          "type": "match-pairs",
+          "prompt": "Pair each Japanese particle with its job.",
+          "pairs": [
+            {
+              "left": "は",
+              "right": "Topic"
+            },
+            {
+              "left": "を",
+              "right": "Action target"
+            },
+            {
+              "left": "で",
+              "right": "Action place"
+            }
+          ],
+          "feedback": "Particles are small, but they do a big job!"
+        }
+      ]
+    },
+    {
+      "id": "g07-masu",
+      "title": "Polite everyday verbs: ます",
+      "summary": "The ます form makes everyday actions polite.",
+      "concept": "Verb stem + ます: 食べます (eat), 見ます (see), 行きます (go).",
+      "steps": [
+        {
+          "type": "intro",
+          "title": "A polite action ending",
+          "body": "ます is a friendly, polite ending for verbs. Japanese sentence endings carry the politeness, so the verb often comes last.",
+          "japanese": "毎日日本語を勉強します。",
+          "reading": "Mainichi nihongo o benkyou shimasu.",
+          "meaning": "I study Japanese every day."
+        },
+        {
+          "type": "multiple-choice",
+          "prompt": "Which is the polite form of 読む (to read)?",
+          "options": ["読みます", "読むです", "読むます"],
+          "answer": "読みます",
+          "feedback": "読む changes to 読み, then add ます."
+        },
+        {
+          "type": "sentence-builder",
+          "prompt": "Build: ‘I drink water.’",
+          "tokens": ["飲みます。", "水を", "わたしは"],
+          "answer": "わたしは水を飲みます。",
+          "translation": "I drink water."
+        },
+        {
+          "type": "match-pairs",
+          "prompt": "Pair each Japanese particle with its job.",
+          "pairs": [
+            {
+              "left": "は",
+              "right": "Topic"
+            },
+            {
+              "left": "を",
+              "right": "Action target"
+            },
+            {
+              "left": "で",
+              "right": "Action place"
+            }
+          ],
+          "feedback": "Particles are small, but they do a big job!"
+        }
+      ]
+    },
+    {
+      "id": "g08-adjectives",
+      "title": "Describe things with adjectives",
+      "summary": "い-adjectives and な-adjectives have different sentence patterns.",
+      "concept": "い-adjective + です. な-adjective + です (or な before a noun).",
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Two adjective families",
+          "body": "い-adjectives like おいしい can go straight before です. な-adjectives like しずか use な before a noun: しずかな町.",
+          "japanese": "この町は静かです。",
+          "reading": "Kono machi wa shizuka desu.",
+          "meaning": "This town is quiet."
+        },
+        {
+          "type": "multiple-choice",
+          "prompt": "Complete: この本は ___ です。 (This book is interesting.)",
+          "options": ["おもしろい", "おもしろくな", "おもしろな"],
+          "answer": "おもしろい",
+          "feedback": "い-adjectives keep their い before です."
+        },
+        {
+          "type": "sentence-builder",
+          "prompt": "Build: ‘It is a quiet town.’",
+          "tokens": ["町です。", "静かな"],
+          "answer": "静かな町です。",
+          "translation": "It is a quiet town."
+        },
+        {
+          "type": "match-pairs",
+          "prompt": "Pair each Japanese particle with its job.",
+          "pairs": [
+            {
+              "left": "は",
+              "right": "Topic"
+            },
+            {
+              "left": "を",
+              "right": "Action target"
+            },
+            {
+              "left": "で",
+              "right": "Action place"
+            }
+          ],
+          "feedback": "Particles are small, but they do a big job!"
+        }
+      ]
+    },
+    {
+      "id": "g09-questions",
+      "title": "Ask a gentle question with か",
+      "summary": "Add か to the end of a polite sentence to make a question.",
+      "concept": "Polite statement + か。 A question word stays where its answer belongs.",
+      "steps": [
+        {
+          "type": "intro",
+          "title": "A question with か",
+          "body": "Put か at the end of a polite sentence to turn it into a question. In writing, finish with 。 or ?.",
+          "japanese": "学生ですか。",
+          "reading": "Gakusei desu ka?",
+          "meaning": "Are you a student?"
+        },
+        {
+          "type": "multiple-choice",
+          "prompt": "Where does か go in a polite question?",
+          "options": ["At the end", "At the start", "Before the noun"],
+          "answer": "At the end",
+          "feedback": "Yes! か gives the whole sentence a question shape."
+        },
+        {
+          "type": "type-answer",
+          "prompt": "Add the question particle: これは本です ___",
+          "answers": ["か", "か。", "か?", "か？"],
+          "hint": "Place it at the end."
+        },
+        {
+          "type": "match-pairs",
+          "prompt": "Pair each Japanese particle with its job.",
+          "pairs": [
+            {
+              "left": "は",
+              "right": "Topic"
+            },
+            {
+              "left": "を",
+              "right": "Action target"
+            },
+            {
+              "left": "で",
+              "right": "Action place"
+            }
+          ],
+          "feedback": "Particles are small, but they do a big job!"
+        }
+      ]
+    },
+    {
+      "id": "g10-negative",
+      "title": "Say ‘not’ politely",
+      "summary": "Use じゃありません to politely say what something is not.",
+      "concept": "Noun/adjective + じゃありません。 For verbs, ません replaces ます.",
+      "steps": [
+        {
+          "type": "intro",
+          "title": "A soft, polite ‘not’",
+          "body": "じゃありません makes a noun or な-adjective negative. Polite verbs use ません: 食べません (do not eat).",
+          "japanese": "学生じゃありません。",
+          "reading": "Gakusei ja arimasen.",
+          "meaning": "I am not a student."
+        },
+        {
+          "type": "multiple-choice",
+          "prompt": "How do you politely say ‘I do not drink’?",
+          "options": ["飲みません", "飲みじゃありません", "飲むない"],
+          "answer": "飲みません",
+          "feedback": "For a polite verb negative, replace ます with ません."
+        },
+        {
+          "type": "sentence-builder",
+          "prompt": "Build: ‘I am not a teacher.’",
+          "tokens": ["じゃありません。", "先生", "わたしは"],
+          "answer": "わたしは先生じゃありません。",
+          "translation": "I am not a teacher."
+        },
+        {
+          "type": "match-pairs",
+          "prompt": "Pair each Japanese particle with its job.",
+          "pairs": [
+            {
+              "left": "は",
+              "right": "Topic"
+            },
+            {
+              "left": "を",
+              "right": "Action target"
+            },
+            {
+              "left": "で",
+              "right": "Action place"
+            }
+          ],
+          "feedback": "Particles are small, but they do a big job!"
+        }
+      ]
+    }
+  ]
+}

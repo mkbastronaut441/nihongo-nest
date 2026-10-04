@@ -1,0 +1,2005 @@
+{
+  "attribution": "Original project-authored vocabulary descriptions and example sentences.",
+  "items": [
+    {
+      "id": "n5-vocab-001",
+      "level": "N5",
+      "word": "人",
+      "reading": "ひと",
+      "meaning": "person",
+      "partOfSpeech": "noun",
+      "example": "これは人です。",
+      "exampleMeaning": "This is person."
+    },
+    {
+      "id": "n5-vocab-002",
+      "level": "N5",
+      "word": "男",
+      "reading": "おとこ",
+      "meaning": "man",
+      "partOfSpeech": "noun",
+      "example": "これは男です。",
+      "exampleMeaning": "This is man."
+    },
+    {
+      "id": "n5-vocab-003",
+      "level": "N5",
+      "word": "女",
+      "reading": "おんな",
+      "meaning": "woman",
+      "partOfSpeech": "noun",
+      "example": "これは女です。",
+      "exampleMeaning": "This is woman."
+    },
+    {
+      "id": "n5-vocab-004",
+      "level": "N5",
+      "word": "子ども",
+      "reading": "こども",
+      "meaning": "child",
+      "partOfSpeech": "noun",
+      "example": "これは子どもです。",
+      "exampleMeaning": "This is child."
+    },
+    {
+      "id": "n5-vocab-005",
+      "level": "N5",
+      "word": "友だち",
+      "reading": "ともだち",
+      "meaning": "friend",
+      "partOfSpeech": "noun",
+      "example": "これは友だちです。",
+      "exampleMeaning": "This is friend."
+    },
+    {
+      "id": "n5-vocab-006",
+      "level": "N5",
+      "word": "家族",
+      "reading": "かぞく",
+      "meaning": "family",
+      "partOfSpeech": "noun",
+      "example": "これは家族です。",
+      "exampleMeaning": "This is family."
+    },
+    {
+      "id": "n5-vocab-007",
+      "level": "N5",
+      "word": "父",
+      "reading": "ちち",
+      "meaning": "my father",
+      "partOfSpeech": "noun",
+      "example": "これは父です。",
+      "exampleMeaning": "This is my father."
+    },
+    {
+      "id": "n5-vocab-008",
+      "level": "N5",
+      "word": "母",
+      "reading": "はは",
+      "meaning": "my mother",
+      "partOfSpeech": "noun",
+      "example": "これは母です。",
+      "exampleMeaning": "This is my mother."
+    },
+    {
+      "id": "n5-vocab-009",
+      "level": "N5",
+      "word": "兄",
+      "reading": "あに",
+      "meaning": "my older brother",
+      "partOfSpeech": "noun",
+      "example": "これは兄です。",
+      "exampleMeaning": "This is my older brother."
+    },
+    {
+      "id": "n5-vocab-010",
+      "level": "N5",
+      "word": "姉",
+      "reading": "あね",
+      "meaning": "my older sister",
+      "partOfSpeech": "noun",
+      "example": "これは姉です。",
+      "exampleMeaning": "This is my older sister."
+    },
+    {
+      "id": "n5-vocab-011",
+      "level": "N5",
+      "word": "弟",
+      "reading": "おとうと",
+      "meaning": "my younger brother",
+      "partOfSpeech": "noun",
+      "example": "これは弟です。",
+      "exampleMeaning": "This is my younger brother."
+    },
+    {
+      "id": "n5-vocab-012",
+      "level": "N5",
+      "word": "妹",
+      "reading": "いもうと",
+      "meaning": "my younger sister",
+      "partOfSpeech": "noun",
+      "example": "これは妹です。",
+      "exampleMeaning": "This is my younger sister."
+    },
+    {
+      "id": "n5-vocab-013",
+      "level": "N5",
+      "word": "先生",
+      "reading": "せんせい",
+      "meaning": "teacher",
+      "partOfSpeech": "noun",
+      "example": "これは先生です。",
+      "exampleMeaning": "This is teacher."
+    },
+    {
+      "id": "n5-vocab-014",
+      "level": "N5",
+      "word": "学生",
+      "reading": "がくせい",
+      "meaning": "student",
+      "partOfSpeech": "noun",
+      "example": "これは学生です。",
+      "exampleMeaning": "This is student."
+    },
+    {
+      "id": "n5-vocab-015",
+      "level": "N5",
+      "word": "会社員",
+      "reading": "かいしゃいん",
+      "meaning": "office worker",
+      "partOfSpeech": "noun",
+      "example": "これは会社員です。",
+      "exampleMeaning": "This is office worker."
+    },
+    {
+      "id": "n5-vocab-016",
+      "level": "N5",
+      "word": "医者",
+      "reading": "いしゃ",
+      "meaning": "doctor",
+      "partOfSpeech": "noun",
+      "example": "これは医者です。",
+      "exampleMeaning": "This is doctor."
+    },
+    {
+      "id": "n5-vocab-017",
+      "level": "N5",
+      "word": "名前",
+      "reading": "なまえ",
+      "meaning": "name",
+      "partOfSpeech": "noun",
+      "example": "これは名前です。",
+      "exampleMeaning": "This is name."
+    },
+    {
+      "id": "n5-vocab-018",
+      "level": "N5",
+      "word": "国",
+      "reading": "くに",
+      "meaning": "country",
+      "partOfSpeech": "noun",
+      "example": "これは国です。",
+      "exampleMeaning": "This is country."
+    },
+    {
+      "id": "n5-vocab-019",
+      "level": "N5",
+      "word": "日本",
+      "reading": "にほん",
+      "meaning": "Japan",
+      "partOfSpeech": "noun",
+      "example": "これは日本です。",
+      "exampleMeaning": "This is Japan."
+    },
+    {
+      "id": "n5-vocab-020",
+      "level": "N5",
+      "word": "日本語",
+      "reading": "にほんご",
+      "meaning": "Japanese language",
+      "partOfSpeech": "noun",
+      "example": "これは日本語です。",
+      "exampleMeaning": "This is Japanese language."
+    },
+    {
+      "id": "n5-vocab-021",
+      "level": "N5",
+      "word": "英語",
+      "reading": "えいご",
+      "meaning": "English language",
+      "partOfSpeech": "noun",
+      "example": "これは英語です。",
+      "exampleMeaning": "This is English language."
+    },
+    {
+      "id": "n5-vocab-022",
+      "level": "N5",
+      "word": "学校",
+      "reading": "がっこう",
+      "meaning": "school",
+      "partOfSpeech": "noun",
+      "example": "これは学校です。",
+      "exampleMeaning": "This is school."
+    },
+    {
+      "id": "n5-vocab-023",
+      "level": "N5",
+      "word": "大学",
+      "reading": "だいがく",
+      "meaning": "university",
+      "partOfSpeech": "noun",
+      "example": "これは大学です。",
+      "exampleMeaning": "This is university."
+    },
+    {
+      "id": "n5-vocab-024",
+      "level": "N5",
+      "word": "会社",
+      "reading": "かいしゃ",
+      "meaning": "company",
+      "partOfSpeech": "noun",
+      "example": "これは会社です。",
+      "exampleMeaning": "This is company."
+    },
+    {
+      "id": "n5-vocab-025",
+      "level": "N5",
+      "word": "店",
+      "reading": "みせ",
+      "meaning": "shop",
+      "partOfSpeech": "noun",
+      "example": "これは店です。",
+      "exampleMeaning": "This is shop."
+    },
+    {
+      "id": "n5-vocab-026",
+      "level": "N5",
+      "word": "駅",
+      "reading": "えき",
+      "meaning": "station",
+      "partOfSpeech": "noun",
+      "example": "これは駅です。",
+      "exampleMeaning": "This is station."
+    },
+    {
+      "id": "n5-vocab-027",
+      "level": "N5",
+      "word": "家",
+      "reading": "いえ",
+      "meaning": "house",
+      "partOfSpeech": "noun",
+      "example": "これは家です。",
+      "exampleMeaning": "This is house."
+    },
+    {
+      "id": "n5-vocab-028",
+      "level": "N5",
+      "word": "部屋",
+      "reading": "へや",
+      "meaning": "room",
+      "partOfSpeech": "noun",
+      "example": "これは部屋です。",
+      "exampleMeaning": "This is room."
+    },
+    {
+      "id": "n5-vocab-029",
+      "level": "N5",
+      "word": "町",
+      "reading": "まち",
+      "meaning": "town",
+      "partOfSpeech": "noun",
+      "example": "これは町です。",
+      "exampleMeaning": "This is town."
+    },
+    {
+      "id": "n5-vocab-030",
+      "level": "N5",
+      "word": "道",
+      "reading": "みち",
+      "meaning": "road",
+      "partOfSpeech": "noun",
+      "example": "これは道です。",
+      "exampleMeaning": "This is road."
+    },
+    {
+      "id": "n5-vocab-031",
+      "level": "N5",
+      "word": "車",
+      "reading": "くるま",
+      "meaning": "car",
+      "partOfSpeech": "noun",
+      "example": "これは車です。",
+      "exampleMeaning": "This is car."
+    },
+    {
+      "id": "n5-vocab-032",
+      "level": "N5",
+      "word": "電車",
+      "reading": "でんしゃ",
+      "meaning": "train",
+      "partOfSpeech": "noun",
+      "example": "これは電車です。",
+      "exampleMeaning": "This is train."
+    },
+    {
+      "id": "n5-vocab-033",
+      "level": "N5",
+      "word": "自転車",
+      "reading": "じてんしゃ",
+      "meaning": "bicycle",
+      "partOfSpeech": "noun",
+      "example": "これは自転車です。",
+      "exampleMeaning": "This is bicycle."
+    },
+    {
+      "id": "n5-vocab-034",
+      "level": "N5",
+      "word": "バス",
+      "reading": "ばす",
+      "meaning": "bus",
+      "partOfSpeech": "noun",
+      "example": "これはバスです。",
+      "exampleMeaning": "This is bus."
+    },
+    {
+      "id": "n5-vocab-035",
+      "level": "N5",
+      "word": "飛行機",
+      "reading": "ひこうき",
+      "meaning": "airplane",
+      "partOfSpeech": "noun",
+      "example": "これは飛行機です。",
+      "exampleMeaning": "This is airplane."
+    },
+    {
+      "id": "n5-vocab-036",
+      "level": "N5",
+      "word": "船",
+      "reading": "ふね",
+      "meaning": "ship",
+      "partOfSpeech": "noun",
+      "example": "これは船です。",
+      "exampleMeaning": "This is ship."
+    },
+    {
+      "id": "n5-vocab-037",
+      "level": "N5",
+      "word": "本",
+      "reading": "ほん",
+      "meaning": "book",
+      "partOfSpeech": "noun",
+      "example": "これは本です。",
+      "exampleMeaning": "This is book."
+    },
+    {
+      "id": "n5-vocab-038",
+      "level": "N5",
+      "word": "新聞",
+      "reading": "しんぶん",
+      "meaning": "newspaper",
+      "partOfSpeech": "noun",
+      "example": "これは新聞です。",
+      "exampleMeaning": "This is newspaper."
+    },
+    {
+      "id": "n5-vocab-039",
+      "level": "N5",
+      "word": "手紙",
+      "reading": "てがみ",
+      "meaning": "letter",
+      "partOfSpeech": "noun",
+      "example": "これは手紙です。",
+      "exampleMeaning": "This is letter."
+    },
+    {
+      "id": "n5-vocab-040",
+      "level": "N5",
+      "word": "電話",
+      "reading": "でんわ",
+      "meaning": "telephone",
+      "partOfSpeech": "noun",
+      "example": "これは電話です。",
+      "exampleMeaning": "This is telephone."
+    },
+    {
+      "id": "n5-vocab-041",
+      "level": "N5",
+      "word": "時計",
+      "reading": "とけい",
+      "meaning": "clock",
+      "partOfSpeech": "noun",
+      "example": "これは時計です。",
+      "exampleMeaning": "This is clock."
+    },
+    {
+      "id": "n5-vocab-042",
+      "level": "N5",
+      "word": "写真",
+      "reading": "しゃしん",
+      "meaning": "photograph",
+      "partOfSpeech": "noun",
+      "example": "これは写真です。",
+      "exampleMeaning": "This is photograph."
+    },
+    {
+      "id": "n5-vocab-043",
+      "level": "N5",
+      "word": "映画",
+      "reading": "えいが",
+      "meaning": "movie",
+      "partOfSpeech": "noun",
+      "example": "これは映画です。",
+      "exampleMeaning": "This is movie."
+    },
+    {
+      "id": "n5-vocab-044",
+      "level": "N5",
+      "word": "音楽",
+      "reading": "おんがく",
+      "meaning": "music",
+      "partOfSpeech": "noun",
+      "example": "これは音楽です。",
+      "exampleMeaning": "This is music."
+    },
+    {
+      "id": "n5-vocab-045",
+      "level": "N5",
+      "word": "テレビ",
+      "reading": "てれび",
+      "meaning": "television",
+      "partOfSpeech": "noun",
+      "example": "これはテレビです。",
+      "exampleMeaning": "This is television."
+    },
+    {
+      "id": "n5-vocab-046",
+      "level": "N5",
+      "word": "ラジオ",
+      "reading": "らじお",
+      "meaning": "radio",
+      "partOfSpeech": "noun",
+      "example": "これはラジオです。",
+      "exampleMeaning": "This is radio."
+    },
+    {
+      "id": "n5-vocab-047",
+      "level": "N5",
+      "word": "机",
+      "reading": "つくえ",
+      "meaning": "desk",
+      "partOfSpeech": "noun",
+      "example": "これは机です。",
+      "exampleMeaning": "This is desk."
+    },
+    {
+      "id": "n5-vocab-048",
+      "level": "N5",
+      "word": "椅子",
+      "reading": "いす",
+      "meaning": "chair",
+      "partOfSpeech": "noun",
+      "example": "これは椅子です。",
+      "exampleMeaning": "This is chair."
+    },
+    {
+      "id": "n5-vocab-049",
+      "level": "N5",
+      "word": "かばん",
+      "reading": "かばん",
+      "meaning": "bag",
+      "partOfSpeech": "noun",
+      "example": "これはかばんです。",
+      "exampleMeaning": "This is bag."
+    },
+    {
+      "id": "n5-vocab-050",
+      "level": "N5",
+      "word": "傘",
+      "reading": "かさ",
+      "meaning": "umbrella",
+      "partOfSpeech": "noun",
+      "example": "これは傘です。",
+      "exampleMeaning": "This is umbrella."
+    },
+    {
+      "id": "n5-vocab-051",
+      "level": "N5",
+      "word": "靴",
+      "reading": "くつ",
+      "meaning": "shoes",
+      "partOfSpeech": "noun",
+      "example": "これは靴です。",
+      "exampleMeaning": "This is shoes."
+    },
+    {
+      "id": "n5-vocab-052",
+      "level": "N5",
+      "word": "服",
+      "reading": "ふく",
+      "meaning": "clothes",
+      "partOfSpeech": "noun",
+      "example": "これは服です。",
+      "exampleMeaning": "This is clothes."
+    },
+    {
+      "id": "n5-vocab-053",
+      "level": "N5",
+      "word": "帽子",
+      "reading": "ぼうし",
+      "meaning": "hat",
+      "partOfSpeech": "noun",
+      "example": "これは帽子です。",
+      "exampleMeaning": "This is hat."
+    },
+    {
+      "id": "n5-vocab-054",
+      "level": "N5",
+      "word": "眼鏡",
+      "reading": "めがね",
+      "meaning": "glasses",
+      "partOfSpeech": "noun",
+      "example": "これは眼鏡です。",
+      "exampleMeaning": "This is glasses."
+    },
+    {
+      "id": "n5-vocab-055",
+      "level": "N5",
+      "word": "鍵",
+      "reading": "かぎ",
+      "meaning": "key",
+      "partOfSpeech": "noun",
+      "example": "これは鍵です。",
+      "exampleMeaning": "This is key."
+    },
+    {
+      "id": "n5-vocab-056",
+      "level": "N5",
+      "word": "水",
+      "reading": "みず",
+      "meaning": "water",
+      "partOfSpeech": "noun",
+      "example": "これは水です。",
+      "exampleMeaning": "This is water."
+    },
+    {
+      "id": "n5-vocab-057",
+      "level": "N5",
+      "word": "お茶",
+      "reading": "おちゃ",
+      "meaning": "tea",
+      "partOfSpeech": "noun",
+      "example": "これはお茶です。",
+      "exampleMeaning": "This is tea."
+    },
+    {
+      "id": "n5-vocab-058",
+      "level": "N5",
+      "word": "コーヒー",
+      "reading": "こーひー",
+      "meaning": "coffee",
+      "partOfSpeech": "noun",
+      "example": "これはコーヒーです。",
+      "exampleMeaning": "This is coffee."
+    },
+    {
+      "id": "n5-vocab-059",
+      "level": "N5",
+      "word": "牛乳",
+      "reading": "ぎゅうにゅう",
+      "meaning": "milk",
+      "partOfSpeech": "noun",
+      "example": "これは牛乳です。",
+      "exampleMeaning": "This is milk."
+    },
+    {
+      "id": "n5-vocab-060",
+      "level": "N5",
+      "word": "ご飯",
+      "reading": "ごはん",
+      "meaning": "rice",
+      "partOfSpeech": "noun",
+      "example": "これはご飯です。",
+      "exampleMeaning": "This is rice."
+    },
+    {
+      "id": "n5-vocab-061",
+      "level": "N5",
+      "word": "パン",
+      "reading": "ぱん",
+      "meaning": "bread",
+      "partOfSpeech": "noun",
+      "example": "これはパンです。",
+      "exampleMeaning": "This is bread."
+    },
+    {
+      "id": "n5-vocab-062",
+      "level": "N5",
+      "word": "卵",
+      "reading": "たまご",
+      "meaning": "egg",
+      "partOfSpeech": "noun",
+      "example": "これは卵です。",
+      "exampleMeaning": "This is egg."
+    },
+    {
+      "id": "n5-vocab-063",
+      "level": "N5",
+      "word": "肉",
+      "reading": "にく",
+      "meaning": "meat",
+      "partOfSpeech": "noun",
+      "example": "これは肉です。",
+      "exampleMeaning": "This is meat."
+    },
+    {
+      "id": "n5-vocab-064",
+      "level": "N5",
+      "word": "魚",
+      "reading": "さかな",
+      "meaning": "fish",
+      "partOfSpeech": "noun",
+      "example": "これは魚です。",
+      "exampleMeaning": "This is fish."
+    },
+    {
+      "id": "n5-vocab-065",
+      "level": "N5",
+      "word": "野菜",
+      "reading": "やさい",
+      "meaning": "vegetable",
+      "partOfSpeech": "noun",
+      "example": "これは野菜です。",
+      "exampleMeaning": "This is vegetable."
+    },
+    {
+      "id": "n5-vocab-066",
+      "level": "N5",
+      "word": "果物",
+      "reading": "くだもの",
+      "meaning": "fruit",
+      "partOfSpeech": "noun",
+      "example": "これは果物です。",
+      "exampleMeaning": "This is fruit."
+    },
+    {
+      "id": "n5-vocab-067",
+      "level": "N5",
+      "word": "りんご",
+      "reading": "りんご",
+      "meaning": "apple",
+      "partOfSpeech": "noun",
+      "example": "これはりんごです。",
+      "exampleMeaning": "This is apple."
+    },
+    {
+      "id": "n5-vocab-068",
+      "level": "N5",
+      "word": "みかん",
+      "reading": "みかん",
+      "meaning": "mandarin orange",
+      "partOfSpeech": "noun",
+      "example": "これはみかんです。",
+      "exampleMeaning": "This is mandarin orange."
+    },
+    {
+      "id": "n5-vocab-069",
+      "level": "N5",
+      "word": "朝ご飯",
+      "reading": "あさごはん",
+      "meaning": "breakfast",
+      "partOfSpeech": "noun",
+      "example": "これは朝ご飯です。",
+      "exampleMeaning": "This is breakfast."
+    },
+    {
+      "id": "n5-vocab-070",
+      "level": "N5",
+      "word": "昼ご飯",
+      "reading": "ひるごはん",
+      "meaning": "lunch",
+      "partOfSpeech": "noun",
+      "example": "これは昼ご飯です。",
+      "exampleMeaning": "This is lunch."
+    },
+    {
+      "id": "n5-vocab-071",
+      "level": "N5",
+      "word": "晩ご飯",
+      "reading": "ばんごはん",
+      "meaning": "dinner",
+      "partOfSpeech": "noun",
+      "example": "これは晩ご飯です。",
+      "exampleMeaning": "This is dinner."
+    },
+    {
+      "id": "n5-vocab-072",
+      "level": "N5",
+      "word": "食べ物",
+      "reading": "たべもの",
+      "meaning": "food",
+      "partOfSpeech": "noun",
+      "example": "これは食べ物です。",
+      "exampleMeaning": "This is food."
+    },
+    {
+      "id": "n5-vocab-073",
+      "level": "N5",
+      "word": "お金",
+      "reading": "おかね",
+      "meaning": "money",
+      "partOfSpeech": "noun",
+      "example": "これはお金です。",
+      "exampleMeaning": "This is money."
+    },
+    {
+      "id": "n5-vocab-074",
+      "level": "N5",
+      "word": "財布",
+      "reading": "さいふ",
+      "meaning": "wallet",
+      "partOfSpeech": "noun",
+      "example": "これは財布です。",
+      "exampleMeaning": "This is wallet."
+    },
+    {
+      "id": "n5-vocab-075",
+      "level": "N5",
+      "word": "店員",
+      "reading": "てんいん",
+      "meaning": "shop clerk",
+      "partOfSpeech": "noun",
+      "example": "これは店員です。",
+      "exampleMeaning": "This is shop clerk."
+    },
+    {
+      "id": "n5-vocab-076",
+      "level": "N5",
+      "word": "入口",
+      "reading": "いりぐち",
+      "meaning": "entrance",
+      "partOfSpeech": "noun",
+      "example": "これは入口です。",
+      "exampleMeaning": "This is entrance."
+    },
+    {
+      "id": "n5-vocab-077",
+      "level": "N5",
+      "word": "出口",
+      "reading": "でぐち",
+      "meaning": "exit",
+      "partOfSpeech": "noun",
+      "example": "これは出口です。",
+      "exampleMeaning": "This is exit."
+    },
+    {
+      "id": "n5-vocab-078",
+      "level": "N5",
+      "word": "病院",
+      "reading": "びょういん",
+      "meaning": "hospital",
+      "partOfSpeech": "noun",
+      "example": "これは病院です。",
+      "exampleMeaning": "This is hospital."
+    },
+    {
+      "id": "n5-vocab-079",
+      "level": "N5",
+      "word": "図書館",
+      "reading": "としょかん",
+      "meaning": "library",
+      "partOfSpeech": "noun",
+      "example": "これは図書館です。",
+      "exampleMeaning": "This is library."
+    },
+    {
+      "id": "n5-vocab-080",
+      "level": "N5",
+      "word": "公園",
+      "reading": "こうえん",
+      "meaning": "park",
+      "partOfSpeech": "noun",
+      "example": "これは公園です。",
+      "exampleMeaning": "This is park."
+    },
+    {
+      "id": "n5-vocab-081",
+      "level": "N5",
+      "word": "銀行",
+      "reading": "ぎんこう",
+      "meaning": "bank",
+      "partOfSpeech": "noun",
+      "example": "これは銀行です。",
+      "exampleMeaning": "This is bank."
+    },
+    {
+      "id": "n5-vocab-082",
+      "level": "N5",
+      "word": "郵便局",
+      "reading": "ゆうびんきょく",
+      "meaning": "post office",
+      "partOfSpeech": "noun",
+      "example": "これは郵便局です。",
+      "exampleMeaning": "This is post office."
+    },
+    {
+      "id": "n5-vocab-083",
+      "level": "N5",
+      "word": "食堂",
+      "reading": "しょくどう",
+      "meaning": "cafeteria",
+      "partOfSpeech": "noun",
+      "example": "これは食堂です。",
+      "exampleMeaning": "This is cafeteria."
+    },
+    {
+      "id": "n5-vocab-084",
+      "level": "N5",
+      "word": "喫茶店",
+      "reading": "きっさてん",
+      "meaning": "cafe",
+      "partOfSpeech": "noun",
+      "example": "これは喫茶店です。",
+      "exampleMeaning": "This is cafe."
+    },
+    {
+      "id": "n5-vocab-085",
+      "level": "N5",
+      "word": "ホテル",
+      "reading": "ほてる",
+      "meaning": "hotel",
+      "partOfSpeech": "noun",
+      "example": "これはホテルです。",
+      "exampleMeaning": "This is hotel."
+    },
+    {
+      "id": "n5-vocab-086",
+      "level": "N5",
+      "word": "空港",
+      "reading": "くうこう",
+      "meaning": "airport",
+      "partOfSpeech": "noun",
+      "example": "これは空港です。",
+      "exampleMeaning": "This is airport."
+    },
+    {
+      "id": "n5-vocab-087",
+      "level": "N5",
+      "word": "天気",
+      "reading": "てんき",
+      "meaning": "weather",
+      "partOfSpeech": "noun",
+      "example": "これは天気です。",
+      "exampleMeaning": "This is weather."
+    },
+    {
+      "id": "n5-vocab-088",
+      "level": "N5",
+      "word": "雨",
+      "reading": "あめ",
+      "meaning": "rain",
+      "partOfSpeech": "noun",
+      "example": "これは雨です。",
+      "exampleMeaning": "This is rain."
+    },
+    {
+      "id": "n5-vocab-089",
+      "level": "N5",
+      "word": "雪",
+      "reading": "ゆき",
+      "meaning": "snow",
+      "partOfSpeech": "noun",
+      "example": "これは雪です。",
+      "exampleMeaning": "This is snow."
+    },
+    {
+      "id": "n5-vocab-090",
+      "level": "N5",
+      "word": "風",
+      "reading": "かぜ",
+      "meaning": "wind",
+      "partOfSpeech": "noun",
+      "example": "これは風です。",
+      "exampleMeaning": "This is wind."
+    },
+    {
+      "id": "n5-vocab-091",
+      "level": "N5",
+      "word": "山",
+      "reading": "やま",
+      "meaning": "mountain",
+      "partOfSpeech": "noun",
+      "example": "これは山です。",
+      "exampleMeaning": "This is mountain."
+    },
+    {
+      "id": "n5-vocab-092",
+      "level": "N5",
+      "word": "川",
+      "reading": "かわ",
+      "meaning": "river",
+      "partOfSpeech": "noun",
+      "example": "これは川です。",
+      "exampleMeaning": "This is river."
+    },
+    {
+      "id": "n5-vocab-093",
+      "level": "N5",
+      "word": "海",
+      "reading": "うみ",
+      "meaning": "sea",
+      "partOfSpeech": "noun",
+      "example": "これは海です。",
+      "exampleMeaning": "This is sea."
+    },
+    {
+      "id": "n5-vocab-094",
+      "level": "N5",
+      "word": "花",
+      "reading": "はな",
+      "meaning": "flower",
+      "partOfSpeech": "noun",
+      "example": "これは花です。",
+      "exampleMeaning": "This is flower."
+    },
+    {
+      "id": "n5-vocab-095",
+      "level": "N5",
+      "word": "犬",
+      "reading": "いぬ",
+      "meaning": "dog",
+      "partOfSpeech": "noun",
+      "example": "これは犬です。",
+      "exampleMeaning": "This is dog."
+    },
+    {
+      "id": "n5-vocab-096",
+      "level": "N5",
+      "word": "猫",
+      "reading": "ねこ",
+      "meaning": "cat",
+      "partOfSpeech": "noun",
+      "example": "これは猫です。",
+      "exampleMeaning": "This is cat."
+    },
+    {
+      "id": "n5-vocab-097",
+      "level": "N5",
+      "word": "鳥",
+      "reading": "とり",
+      "meaning": "bird",
+      "partOfSpeech": "noun",
+      "example": "これは鳥です。",
+      "exampleMeaning": "This is bird."
+    },
+    {
+      "id": "n5-vocab-098",
+      "level": "N5",
+      "word": "今日",
+      "reading": "きょう",
+      "meaning": "today",
+      "partOfSpeech": "noun",
+      "example": "これは今日です。",
+      "exampleMeaning": "This is today."
+    },
+    {
+      "id": "n5-vocab-099",
+      "level": "N5",
+      "word": "明日",
+      "reading": "あした",
+      "meaning": "tomorrow",
+      "partOfSpeech": "noun",
+      "example": "これは明日です。",
+      "exampleMeaning": "This is tomorrow."
+    },
+    {
+      "id": "n5-vocab-100",
+      "level": "N5",
+      "word": "昨日",
+      "reading": "きのう",
+      "meaning": "yesterday",
+      "partOfSpeech": "noun",
+      "example": "これは昨日です。",
+      "exampleMeaning": "This is yesterday."
+    },
+    {
+      "id": "n5-vocab-101",
+      "level": "N5",
+      "word": "朝",
+      "reading": "あさ",
+      "meaning": "morning",
+      "partOfSpeech": "noun",
+      "example": "これは朝です。",
+      "exampleMeaning": "This is morning."
+    },
+    {
+      "id": "n5-vocab-102",
+      "level": "N5",
+      "word": "行く",
+      "reading": "いく",
+      "meaning": "to go",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日行きます。",
+      "exampleMeaning": "I go every day."
+    },
+    {
+      "id": "n5-vocab-103",
+      "level": "N5",
+      "word": "来る",
+      "reading": "くる",
+      "meaning": "to come",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日来ます。",
+      "exampleMeaning": "I come every day."
+    },
+    {
+      "id": "n5-vocab-104",
+      "level": "N5",
+      "word": "帰る",
+      "reading": "かえる",
+      "meaning": "to return",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日帰ります。",
+      "exampleMeaning": "I return every day."
+    },
+    {
+      "id": "n5-vocab-105",
+      "level": "N5",
+      "word": "食べる",
+      "reading": "たべる",
+      "meaning": "to eat",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日食べます。",
+      "exampleMeaning": "I eat every day."
+    },
+    {
+      "id": "n5-vocab-106",
+      "level": "N5",
+      "word": "飲む",
+      "reading": "のむ",
+      "meaning": "to drink",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日飲みます。",
+      "exampleMeaning": "I drink every day."
+    },
+    {
+      "id": "n5-vocab-107",
+      "level": "N5",
+      "word": "見る",
+      "reading": "みる",
+      "meaning": "to see",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日見ます。",
+      "exampleMeaning": "I see every day."
+    },
+    {
+      "id": "n5-vocab-108",
+      "level": "N5",
+      "word": "聞く",
+      "reading": "きく",
+      "meaning": "to listen",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日聞きます。",
+      "exampleMeaning": "I listen every day."
+    },
+    {
+      "id": "n5-vocab-109",
+      "level": "N5",
+      "word": "読む",
+      "reading": "よむ",
+      "meaning": "to read",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日読みます。",
+      "exampleMeaning": "I read every day."
+    },
+    {
+      "id": "n5-vocab-110",
+      "level": "N5",
+      "word": "書く",
+      "reading": "かく",
+      "meaning": "to write",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日書きます。",
+      "exampleMeaning": "I write every day."
+    },
+    {
+      "id": "n5-vocab-111",
+      "level": "N5",
+      "word": "話す",
+      "reading": "はなす",
+      "meaning": "to speak",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日話します。",
+      "exampleMeaning": "I speak every day."
+    },
+    {
+      "id": "n5-vocab-112",
+      "level": "N5",
+      "word": "買う",
+      "reading": "かう",
+      "meaning": "to buy",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日買います。",
+      "exampleMeaning": "I buy every day."
+    },
+    {
+      "id": "n5-vocab-113",
+      "level": "N5",
+      "word": "売る",
+      "reading": "うる",
+      "meaning": "to sell",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日売ります。",
+      "exampleMeaning": "I sell every day."
+    },
+    {
+      "id": "n5-vocab-114",
+      "level": "N5",
+      "word": "会う",
+      "reading": "あう",
+      "meaning": "to meet",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日会います。",
+      "exampleMeaning": "I meet every day."
+    },
+    {
+      "id": "n5-vocab-115",
+      "level": "N5",
+      "word": "待つ",
+      "reading": "まつ",
+      "meaning": "to wait",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日待ちます。",
+      "exampleMeaning": "I wait every day."
+    },
+    {
+      "id": "n5-vocab-116",
+      "level": "N5",
+      "word": "立つ",
+      "reading": "たつ",
+      "meaning": "to stand",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日立ちます。",
+      "exampleMeaning": "I stand every day."
+    },
+    {
+      "id": "n5-vocab-117",
+      "level": "N5",
+      "word": "座る",
+      "reading": "すわる",
+      "meaning": "to sit",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日座ります。",
+      "exampleMeaning": "I sit every day."
+    },
+    {
+      "id": "n5-vocab-118",
+      "level": "N5",
+      "word": "寝る",
+      "reading": "ねる",
+      "meaning": "to sleep",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日寝ます。",
+      "exampleMeaning": "I sleep every day."
+    },
+    {
+      "id": "n5-vocab-119",
+      "level": "N5",
+      "word": "起きる",
+      "reading": "おきる",
+      "meaning": "to wake up",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日起きます。",
+      "exampleMeaning": "I wake up every day."
+    },
+    {
+      "id": "n5-vocab-120",
+      "level": "N5",
+      "word": "働く",
+      "reading": "はたらく",
+      "meaning": "to work",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日働きます。",
+      "exampleMeaning": "I work every day."
+    },
+    {
+      "id": "n5-vocab-121",
+      "level": "N5",
+      "word": "休む",
+      "reading": "やすむ",
+      "meaning": "to rest",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日休みます。",
+      "exampleMeaning": "I rest every day."
+    },
+    {
+      "id": "n5-vocab-122",
+      "level": "N5",
+      "word": "勉強する",
+      "reading": "べんきょうする",
+      "meaning": "to study",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日勉強します。",
+      "exampleMeaning": "I study every day."
+    },
+    {
+      "id": "n5-vocab-123",
+      "level": "N5",
+      "word": "する",
+      "reading": "する",
+      "meaning": "to do",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日します。",
+      "exampleMeaning": "I do every day."
+    },
+    {
+      "id": "n5-vocab-124",
+      "level": "N5",
+      "word": "遊ぶ",
+      "reading": "あそぶ",
+      "meaning": "to play",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日遊びます。",
+      "exampleMeaning": "I play every day."
+    },
+    {
+      "id": "n5-vocab-125",
+      "level": "N5",
+      "word": "泳ぐ",
+      "reading": "およぐ",
+      "meaning": "to swim",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日泳ぎます。",
+      "exampleMeaning": "I swim every day."
+    },
+    {
+      "id": "n5-vocab-126",
+      "level": "N5",
+      "word": "走る",
+      "reading": "はしる",
+      "meaning": "to run",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日走ります。",
+      "exampleMeaning": "I run every day."
+    },
+    {
+      "id": "n5-vocab-127",
+      "level": "N5",
+      "word": "歩く",
+      "reading": "あるく",
+      "meaning": "to walk",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日歩きます。",
+      "exampleMeaning": "I walk every day."
+    },
+    {
+      "id": "n5-vocab-128",
+      "level": "N5",
+      "word": "乗る",
+      "reading": "のる",
+      "meaning": "to ride",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日乗ります。",
+      "exampleMeaning": "I ride every day."
+    },
+    {
+      "id": "n5-vocab-129",
+      "level": "N5",
+      "word": "降りる",
+      "reading": "おりる",
+      "meaning": "to get off",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日降ります。",
+      "exampleMeaning": "I get off every day."
+    },
+    {
+      "id": "n5-vocab-130",
+      "level": "N5",
+      "word": "作る",
+      "reading": "つくる",
+      "meaning": "to make",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日作ります。",
+      "exampleMeaning": "I make every day."
+    },
+    {
+      "id": "n5-vocab-131",
+      "level": "N5",
+      "word": "使う",
+      "reading": "つかう",
+      "meaning": "to use",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日使います。",
+      "exampleMeaning": "I use every day."
+    },
+    {
+      "id": "n5-vocab-132",
+      "level": "N5",
+      "word": "開ける",
+      "reading": "あける",
+      "meaning": "to open",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日開けます。",
+      "exampleMeaning": "I open every day."
+    },
+    {
+      "id": "n5-vocab-133",
+      "level": "N5",
+      "word": "閉める",
+      "reading": "しめる",
+      "meaning": "to close",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日閉めます。",
+      "exampleMeaning": "I close every day."
+    },
+    {
+      "id": "n5-vocab-134",
+      "level": "N5",
+      "word": "入る",
+      "reading": "はいる",
+      "meaning": "to enter",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日入ります。",
+      "exampleMeaning": "I enter every day."
+    },
+    {
+      "id": "n5-vocab-135",
+      "level": "N5",
+      "word": "出る",
+      "reading": "でる",
+      "meaning": "to leave",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日出ます。",
+      "exampleMeaning": "I leave every day."
+    },
+    {
+      "id": "n5-vocab-136",
+      "level": "N5",
+      "word": "教える",
+      "reading": "おしえる",
+      "meaning": "to teach",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日教えます。",
+      "exampleMeaning": "I teach every day."
+    },
+    {
+      "id": "n5-vocab-137",
+      "level": "N5",
+      "word": "習う",
+      "reading": "ならう",
+      "meaning": "to learn",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日習います。",
+      "exampleMeaning": "I learn every day."
+    },
+    {
+      "id": "n5-vocab-138",
+      "level": "N5",
+      "word": "分かる",
+      "reading": "わかる",
+      "meaning": "to understand",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日分かります。",
+      "exampleMeaning": "I understand every day."
+    },
+    {
+      "id": "n5-vocab-139",
+      "level": "N5",
+      "word": "ある",
+      "reading": "ある",
+      "meaning": "to exist (things)",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日あります。",
+      "exampleMeaning": "I exist (things) every day."
+    },
+    {
+      "id": "n5-vocab-140",
+      "level": "N5",
+      "word": "いる",
+      "reading": "いる",
+      "meaning": "to exist (living)",
+      "partOfSpeech": "verb",
+      "example": "わたしは毎日います。",
+      "exampleMeaning": "I exist (living) every day."
+    },
+    {
+      "id": "n5-vocab-141",
+      "level": "N5",
+      "word": "大きい",
+      "reading": "おおきい",
+      "meaning": "big",
+      "partOfSpeech": "adjective",
+      "example": "この本は大きいです。",
+      "exampleMeaning": "This book is big."
+    },
+    {
+      "id": "n5-vocab-142",
+      "level": "N5",
+      "word": "小さい",
+      "reading": "ちいさい",
+      "meaning": "small",
+      "partOfSpeech": "adjective",
+      "example": "この本は小さいです。",
+      "exampleMeaning": "This book is small."
+    },
+    {
+      "id": "n5-vocab-143",
+      "level": "N5",
+      "word": "新しい",
+      "reading": "あたらしい",
+      "meaning": "new",
+      "partOfSpeech": "adjective",
+      "example": "この本は新しいです。",
+      "exampleMeaning": "This book is new."
+    },
+    {
+      "id": "n5-vocab-144",
+      "level": "N5",
+      "word": "古い",
+      "reading": "ふるい",
+      "meaning": "old",
+      "partOfSpeech": "adjective",
+      "example": "この本は古いです。",
+      "exampleMeaning": "This book is old."
+    },
+    {
+      "id": "n5-vocab-145",
+      "level": "N5",
+      "word": "高い",
+      "reading": "たかい",
+      "meaning": "tall; expensive",
+      "partOfSpeech": "adjective",
+      "example": "この本は高いです。",
+      "exampleMeaning": "This book is tall; expensive."
+    },
+    {
+      "id": "n5-vocab-146",
+      "level": "N5",
+      "word": "安い",
+      "reading": "やすい",
+      "meaning": "inexpensive",
+      "partOfSpeech": "adjective",
+      "example": "この本は安いです。",
+      "exampleMeaning": "This book is inexpensive."
+    },
+    {
+      "id": "n5-vocab-147",
+      "level": "N5",
+      "word": "いい",
+      "reading": "いい",
+      "meaning": "good",
+      "partOfSpeech": "adjective",
+      "example": "この本はいいです。",
+      "exampleMeaning": "This book is good."
+    },
+    {
+      "id": "n5-vocab-148",
+      "level": "N5",
+      "word": "悪い",
+      "reading": "わるい",
+      "meaning": "bad",
+      "partOfSpeech": "adjective",
+      "example": "この本は悪いです。",
+      "exampleMeaning": "This book is bad."
+    },
+    {
+      "id": "n5-vocab-149",
+      "level": "N5",
+      "word": "暑い",
+      "reading": "あつい",
+      "meaning": "hot (weather)",
+      "partOfSpeech": "adjective",
+      "example": "この本は暑いです。",
+      "exampleMeaning": "This book is hot (weather)."
+    },
+    {
+      "id": "n5-vocab-150",
+      "level": "N5",
+      "word": "寒い",
+      "reading": "さむい",
+      "meaning": "cold (weather)",
+      "partOfSpeech": "adjective",
+      "example": "この本は寒いです。",
+      "exampleMeaning": "This book is cold (weather)."
+    },
+    {
+      "id": "n5-vocab-151",
+      "level": "N5",
+      "word": "熱い",
+      "reading": "あつい",
+      "meaning": "hot (to touch)",
+      "partOfSpeech": "adjective",
+      "example": "この本は熱いです。",
+      "exampleMeaning": "This book is hot (to touch)."
+    },
+    {
+      "id": "n5-vocab-152",
+      "level": "N5",
+      "word": "冷たい",
+      "reading": "つめたい",
+      "meaning": "cold (to touch)",
+      "partOfSpeech": "adjective",
+      "example": "この本は冷たいです。",
+      "exampleMeaning": "This book is cold (to touch)."
+    },
+    {
+      "id": "n5-vocab-153",
+      "level": "N5",
+      "word": "おいしい",
+      "reading": "おいしい",
+      "meaning": "delicious",
+      "partOfSpeech": "adjective",
+      "example": "この本はおいしいです。",
+      "exampleMeaning": "This book is delicious."
+    },
+    {
+      "id": "n5-vocab-154",
+      "level": "N5",
+      "word": "忙しい",
+      "reading": "いそがしい",
+      "meaning": "busy",
+      "partOfSpeech": "adjective",
+      "example": "この本は忙しいです。",
+      "exampleMeaning": "This book is busy."
+    },
+    {
+      "id": "n5-vocab-155",
+      "level": "N5",
+      "word": "楽しい",
+      "reading": "たのしい",
+      "meaning": "fun",
+      "partOfSpeech": "adjective",
+      "example": "この本は楽しいです。",
+      "exampleMeaning": "This book is fun."
+    },
+    {
+      "id": "n5-vocab-156",
+      "level": "N5",
+      "word": "面白い",
+      "reading": "おもしろい",
+      "meaning": "interesting",
+      "partOfSpeech": "adjective",
+      "example": "この本は面白いです。",
+      "exampleMeaning": "This book is interesting."
+    },
+    {
+      "id": "n5-vocab-157",
+      "level": "N5",
+      "word": "難しい",
+      "reading": "むずかしい",
+      "meaning": "difficult",
+      "partOfSpeech": "adjective",
+      "example": "この本は難しいです。",
+      "exampleMeaning": "This book is difficult."
+    },
+    {
+      "id": "n5-vocab-158",
+      "level": "N5",
+      "word": "易しい",
+      "reading": "やさしい",
+      "meaning": "easy",
+      "partOfSpeech": "adjective",
+      "example": "この本は易しいです。",
+      "exampleMeaning": "This book is easy."
+    },
+    {
+      "id": "n5-vocab-159",
+      "level": "N5",
+      "word": "早い",
+      "reading": "はやい",
+      "meaning": "early; fast",
+      "partOfSpeech": "adjective",
+      "example": "この本は早いです。",
+      "exampleMeaning": "This book is early; fast."
+    },
+    {
+      "id": "n5-vocab-160",
+      "level": "N5",
+      "word": "遅い",
+      "reading": "おそい",
+      "meaning": "late; slow",
+      "partOfSpeech": "adjective",
+      "example": "この本は遅いです。",
+      "exampleMeaning": "This book is late; slow."
+    },
+    {
+      "id": "n5-vocab-161",
+      "level": "N5",
+      "word": "近い",
+      "reading": "ちかい",
+      "meaning": "near",
+      "partOfSpeech": "adjective",
+      "example": "この本は近いです。",
+      "exampleMeaning": "This book is near."
+    },
+    {
+      "id": "n5-vocab-162",
+      "level": "N5",
+      "word": "遠い",
+      "reading": "とおい",
+      "meaning": "far",
+      "partOfSpeech": "adjective",
+      "example": "この本は遠いです。",
+      "exampleMeaning": "This book is far."
+    },
+    {
+      "id": "n5-vocab-163",
+      "level": "N5",
+      "word": "多い",
+      "reading": "おおい",
+      "meaning": "many",
+      "partOfSpeech": "adjective",
+      "example": "この本は多いです。",
+      "exampleMeaning": "This book is many."
+    },
+    {
+      "id": "n5-vocab-164",
+      "level": "N5",
+      "word": "少ない",
+      "reading": "すくない",
+      "meaning": "few",
+      "partOfSpeech": "adjective",
+      "example": "この本は少ないです。",
+      "exampleMeaning": "This book is few."
+    },
+    {
+      "id": "n5-vocab-165",
+      "level": "N5",
+      "word": "きれい",
+      "reading": "きれい",
+      "meaning": "beautiful; clean",
+      "partOfSpeech": "adjective",
+      "example": "この本はきれいです。",
+      "exampleMeaning": "This book is beautiful; clean."
+    },
+    {
+      "id": "n5-vocab-166",
+      "level": "N5",
+      "word": "静か",
+      "reading": "しずか",
+      "meaning": "quiet",
+      "partOfSpeech": "adjective",
+      "example": "この本は静かです。",
+      "exampleMeaning": "This book is quiet."
+    },
+    {
+      "id": "n5-vocab-167",
+      "level": "N5",
+      "word": "元気",
+      "reading": "げんき",
+      "meaning": "well; energetic",
+      "partOfSpeech": "adjective",
+      "example": "この本は元気です。",
+      "exampleMeaning": "This book is well; energetic."
+    },
+    {
+      "id": "n5-vocab-168",
+      "level": "N5",
+      "word": "好き",
+      "reading": "すき",
+      "meaning": "liked; favorite",
+      "partOfSpeech": "adjective",
+      "example": "この本は好きです。",
+      "exampleMeaning": "This book is liked; favorite."
+    },
+    {
+      "id": "n5-vocab-169",
+      "level": "N5",
+      "word": "嫌い",
+      "reading": "きらい",
+      "meaning": "disliked",
+      "partOfSpeech": "adjective",
+      "example": "この本は嫌いです。",
+      "exampleMeaning": "This book is disliked."
+    },
+    {
+      "id": "n5-vocab-170",
+      "level": "N5",
+      "word": "有名",
+      "reading": "ゆうめい",
+      "meaning": "famous",
+      "partOfSpeech": "adjective",
+      "example": "この本は有名です。",
+      "exampleMeaning": "This book is famous."
+    },
+    {
+      "id": "n5-vocab-171",
+      "level": "N5",
+      "word": "これ",
+      "reading": "これ",
+      "meaning": "this thing",
+      "partOfSpeech": "expression",
+      "example": "これはわたしの本です。",
+      "exampleMeaning": "This is my book."
+    },
+    {
+      "id": "n5-vocab-172",
+      "level": "N5",
+      "word": "それ",
+      "reading": "それ",
+      "meaning": "that thing",
+      "partOfSpeech": "expression",
+      "example": "それは何ですか。",
+      "exampleMeaning": "What is that?"
+    },
+    {
+      "id": "n5-vocab-173",
+      "level": "N5",
+      "word": "あれ",
+      "reading": "あれ",
+      "meaning": "that thing over there",
+      "partOfSpeech": "expression",
+      "example": "あれは学校です。",
+      "exampleMeaning": "That over there is a school."
+    },
+    {
+      "id": "n5-vocab-174",
+      "level": "N5",
+      "word": "ここ",
+      "reading": "ここ",
+      "meaning": "here",
+      "partOfSpeech": "expression",
+      "example": "ここは駅です。",
+      "exampleMeaning": "This is the station."
+    },
+    {
+      "id": "n5-vocab-175",
+      "level": "N5",
+      "word": "そこ",
+      "reading": "そこ",
+      "meaning": "there",
+      "partOfSpeech": "expression",
+      "example": "そこに店があります。",
+      "exampleMeaning": "There is a shop there."
+    },
+    {
+      "id": "n5-vocab-176",
+      "level": "N5",
+      "word": "あそこ",
+      "reading": "あそこ",
+      "meaning": "over there",
+      "partOfSpeech": "expression",
+      "example": "あそこに山があります。",
+      "exampleMeaning": "There is a mountain over there."
+    },
+    {
+      "id": "n5-vocab-177",
+      "level": "N5",
+      "word": "どこ",
+      "reading": "どこ",
+      "meaning": "where",
+      "partOfSpeech": "expression",
+      "example": "駅はどこですか。",
+      "exampleMeaning": "Where is the station?"
+    },
+    {
+      "id": "n5-vocab-178",
+      "level": "N5",
+      "word": "だれ",
+      "reading": "だれ",
+      "meaning": "who",
+      "partOfSpeech": "expression",
+      "example": "あの人はだれですか。",
+      "exampleMeaning": "Who is that person?"
+    },
+    {
+      "id": "n5-vocab-179",
+      "level": "N5",
+      "word": "何",
+      "reading": "なに",
+      "meaning": "what",
+      "partOfSpeech": "expression",
+      "example": "これは何ですか。",
+      "exampleMeaning": "What is this?"
+    },
+    {
+      "id": "n5-vocab-180",
+      "level": "N5",
+      "word": "いつ",
+      "reading": "いつ",
+      "meaning": "when",
+      "partOfSpeech": "expression",
+      "example": "誕生日はいつですか。",
+      "exampleMeaning": "When is your birthday?"
+    },
+    {
+      "id": "n5-vocab-181",
+      "level": "N5",
+      "word": "いくら",
+      "reading": "いくら",
+      "meaning": "how much",
+      "partOfSpeech": "expression",
+      "example": "この本はいくらですか。",
+      "exampleMeaning": "How much is this book?"
+    },
+    {
+      "id": "n5-vocab-182",
+      "level": "N5",
+      "word": "いくつ",
+      "reading": "いくつ",
+      "meaning": "how many; how old",
+      "partOfSpeech": "expression",
+      "example": "りんごはいくつですか。",
+      "exampleMeaning": "How many apples are there?"
+    },
+    {
+      "id": "n5-vocab-183",
+      "level": "N5",
+      "word": "とても",
+      "reading": "とても",
+      "meaning": "very",
+      "partOfSpeech": "expression",
+      "example": "この花はとてもきれいです。",
+      "exampleMeaning": "This flower is very beautiful."
+    },
+    {
+      "id": "n5-vocab-184",
+      "level": "N5",
+      "word": "少し",
+      "reading": "すこし",
+      "meaning": "a little",
+      "partOfSpeech": "expression",
+      "example": "水を少し飲みます。",
+      "exampleMeaning": "I drink a little water."
+    },
+    {
+      "id": "n5-vocab-185",
+      "level": "N5",
+      "word": "たくさん",
+      "reading": "たくさん",
+      "meaning": "many; a lot",
+      "partOfSpeech": "expression",
+      "example": "本をたくさん読みます。",
+      "exampleMeaning": "I read many books."
+    },
+    {
+      "id": "n5-vocab-186",
+      "level": "N5",
+      "word": "いつも",
+      "reading": "いつも",
+      "meaning": "always",
+      "partOfSpeech": "expression",
+      "example": "いつも七時に起きます。",
+      "exampleMeaning": "I always get up at seven."
+    },
+    {
+      "id": "n5-vocab-187",
+      "level": "N5",
+      "word": "よく",
+      "reading": "よく",
+      "meaning": "often; well",
+      "partOfSpeech": "expression",
+      "example": "よく日本語を勉強します。",
+      "exampleMeaning": "I often study Japanese."
+    },
+    {
+      "id": "n5-vocab-188",
+      "level": "N5",
+      "word": "時々",
+      "reading": "ときどき",
+      "meaning": "sometimes",
+      "partOfSpeech": "expression",
+      "example": "時々映画を見ます。",
+      "exampleMeaning": "I sometimes watch movies."
+    },
+    {
+      "id": "n5-vocab-189",
+      "level": "N5",
+      "word": "一緒に",
+      "reading": "いっしょに",
+      "meaning": "together",
+      "partOfSpeech": "expression",
+      "example": "友だちと一緒に行きます。",
+      "exampleMeaning": "I go together with a friend."
+    },
+    {
+      "id": "n5-vocab-190",
+      "level": "N5",
+      "word": "ゆっくり",
+      "reading": "ゆっくり",
+      "meaning": "slowly",
+      "partOfSpeech": "expression",
+      "example": "ゆっくり話してください。",
+      "exampleMeaning": "Please speak slowly."
+    },
+    {
+      "id": "n5-vocab-191",
+      "level": "N5",
+      "word": "もう",
+      "reading": "もう",
+      "meaning": "already; more",
+      "partOfSpeech": "expression",
+      "example": "もう一度お願いします。",
+      "exampleMeaning": "One more time, please."
+    },
+    {
+      "id": "n5-vocab-192",
+      "level": "N5",
+      "word": "まだ",
+      "reading": "まだ",
+      "meaning": "not yet; still",
+      "partOfSpeech": "expression",
+      "example": "まだ食べていません。",
+      "exampleMeaning": "I have not eaten yet."
+    },
+    {
+      "id": "n5-vocab-193",
+      "level": "N5",
+      "word": "そして",
+      "reading": "そして",
+      "meaning": "and then",
+      "partOfSpeech": "expression",
+      "example": "朝ご飯を食べます。そして学校へ行きます。",
+      "exampleMeaning": "I eat breakfast, and then go to school."
+    },
+    {
+      "id": "n5-vocab-194",
+      "level": "N5",
+      "word": "でも",
+      "reading": "でも",
+      "meaning": "but",
+      "partOfSpeech": "expression",
+      "example": "小さいです。でも、とても便利です。",
+      "exampleMeaning": "It is small, but very useful."
+    },
+    {
+      "id": "n5-vocab-195",
+      "level": "N5",
+      "word": "はい",
+      "reading": "はい",
+      "meaning": "yes",
+      "partOfSpeech": "expression",
+      "example": "はい、分かりました。",
+      "exampleMeaning": "Yes, I understand."
+    },
+    {
+      "id": "n5-vocab-196",
+      "level": "N5",
+      "word": "いいえ",
+      "reading": "いいえ",
+      "meaning": "no",
+      "partOfSpeech": "expression",
+      "example": "いいえ、学生ではありません。",
+      "exampleMeaning": "No, I am not a student."
+    },
+    {
+      "id": "n5-vocab-197",
+      "level": "N5",
+      "word": "ありがとう",
+      "reading": "ありがとう",
+      "meaning": "thank you",
+      "partOfSpeech": "expression",
+      "example": "ありがとう、と言いました。",
+      "exampleMeaning": "I said, “Thank you.”"
+    },
+    {
+      "id": "n5-vocab-198",
+      "level": "N5",
+      "word": "すみません",
+      "reading": "すみません",
+      "meaning": "excuse me; sorry",
+      "partOfSpeech": "expression",
+      "example": "すみません、駅はどこですか。",
+      "exampleMeaning": "Excuse me, where is the station?"
+    },
+    {
+      "id": "n5-vocab-199",
+      "level": "N5",
+      "word": "お願いします",
+      "reading": "おねがいします",
+      "meaning": "please",
+      "partOfSpeech": "expression",
+      "example": "水をお願いします。",
+      "exampleMeaning": "Water, please."
+    },
+    {
+      "id": "n5-vocab-200",
+      "level": "N5",
+      "word": "大丈夫",
+      "reading": "だいじょうぶ",
+      "meaning": "okay; all right",
+      "partOfSpeech": "expression",
+      "example": "わたしは大丈夫です。",
+      "exampleMeaning": "I am okay."
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+enum AgeGroup {
+  KIDS
+  TEENS
+  ADULTS
+}
+
+enum Goal {
+  TRAVEL
+  ANIME_MANGA
+  JLPT
+  WORK
+  FUN
+}
+
+enum Theme {
+  AUTO
+  SAKURA
+  INDIGO
+  MATCHA
+}
+
+model User {
+  id            String       @id @default(cuid())
+  email         String?      @unique
+  name          String?
+  image         String?
+  emailVerified DateTime?
+  accounts      Account[]
+  sessions      Session[]
+  profile       Profile?
+  progress      Progress[]
+  streak        Streak?
+  reviewCards   ReviewCard[]
+  userBadges    UserBadge[]
+  classrooms    Classroom[]  @relation("ClassroomOwner")
+  createdAt     DateTime     @default(now())
+  updatedAt     DateTime     @updatedAt
+}
+
+model Account {
+  id                String  @id @default(cuid())
+  userId            String
+  type              String
+  provider          String
+  providerAccountId String
+  refresh_token     String?
+  access_token      String?
+  expires_at        Int?
+  token_type        String?
+  scope             String?
+  id_token          String?
+  session_state     String?
+  user              User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerAccountId])
+}
+
+model Session {
+  id           String   @id @default(cuid())
+  sessionToken String   @unique
+  userId       String
+  expires      DateTime
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model VerificationToken {
+  identifier String
+  token      String   @unique
+  expires    DateTime
+
+  @@unique([identifier, token])
+}
+
+model Profile {
+  id            String     @id @default(cuid())
+  userId        String     @unique
+  ageGroup      AgeGroup   @default(ADULTS)
+  goal          Goal       @default(FUN)
+  theme         Theme      @default(AUTO)
+  fontScale     Float      @default(1)
+  highContrast  Boolean    @default(false)
+  reducedMotion Boolean    @default(false)
+  dyslexiaFont  Boolean    @default(false)
+  user          User       @relation(fields: [userId], references: [id], onDelete: Cascade)
+  classroomId   String?
+  classroom     Classroom? @relation(fields: [classroomId], references: [id], onDelete: SetNull)
+  createdAt     DateTime   @default(now())
+  updatedAt     DateTime   @updatedAt
+}
+
+model Unit {
+  id          String   @id @default(cuid())
+  slug        String   @unique
+  title       String
+  description String?
+  order       Int      @default(0)
+  lessons     Lesson[]
+}
+
+model Lesson {
+  id          String       @id @default(cuid())
+  slug        String       @unique
+  title       String
+  description String?
+  contentPath String?
+  order       Int          @default(0)
+  unitId      String?
+  unit        Unit?        @relation(fields: [unitId], references: [id], onDelete: SetNull)
+  progress    Progress[]
+  reviewCards ReviewCard[]
+  createdAt   DateTime     @default(now())
+  updatedAt   DateTime     @updatedAt
+}
+
+model Kana {
+  id           String  @id @default(cuid())
+  character    String  @unique
+  romanization String
+  script       String
+  category     String  @default("basic")
+  row          String?
+  detail       String?
+  strokes      String  @default("[]")
+  audioPath    String?
+}
+
+model Kanji {
+  id             String  @id @default(cuid())
+  character      String  @unique
+  meaning        String
+  readings       String
+  onReadings     String  @default("[]")
+  kunReadings    String  @default("[]")
+  radical        String?
+  radicalMeaning String?
+  mnemonic       String?
+  jlptLevel      String  @default("N5")
+  strokeCount    Int?
+  strokes        String  @default("[]")
+  svgPath        String?
+}
+
+model VocabItem {
+  id             String  @id @default(cuid())
+  japanese       String  @unique
+  reading        String
+  meaning        String
+  level          String?
+  partOfSpeech   String  @default("noun")
+  example        String?
+  exampleMeaning String?
+}
+
+model GrammarPoint {
+  id          String  @id @default(cuid())
+  pattern     String  @unique
+  meaning     String
+  explanation String
+  level       String?
+  example     String?
+}
+
+model ReviewCard {
+  id             String    @id @default(cuid())
+  userId         String
+  lessonId       String?
+  cardKey        String?
+  front          String
+  back           String
+  dueAt          DateTime  @default(now())
+  interval       Float     @default(0)
+  ease           Float     @default(2.5)
+  repetitions    Int       @default(0)
+  lastReviewedAt DateTime?
+  lastGrade      Int?
+  user           User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  lesson         Lesson?   @relation(fields: [lessonId], references: [id], onDelete: SetNull)
+
+  @@unique([userId, cardKey])
+}
+
+model Progress {
+  id          String    @id @default(cuid())
+  userId      String
+  lessonId    String?
+  completed   Boolean   @default(false)
+  score       Int       @default(0)
+  xpEarned    Int       @default(0)
+  completedAt DateTime?
+  user        User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  lesson      Lesson?   @relation(fields: [lessonId], references: [id], onDelete: SetNull)
+
+  @@unique([userId, lessonId])
+}
+
+model Streak {
+  id             String    @id @default(cuid())
+  userId         String    @unique
+  currentDays    Int       @default(0)
+  longestDays    Int       @default(0)
+  lastActivityAt DateTime?
+  user           User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model Badge {
+  id          String      @id @default(cuid())
+  slug        String      @unique
+  name        String
+  description String
+  emoji       String      @default("🌟")
+  userBadges  UserBadge[]
+}
+
+model UserBadge {
+  id       String   @id @default(cuid())
+  userId   String
+  badgeId  String
+  earnedAt DateTime @default(now())
+  user     User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  badge    Badge    @relation(fields: [badgeId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, badgeId])
+}
+
+model Quest {
+  id          String    @id @default(cuid())
+  slug        String    @unique
+  title       String
+  description String?
+  rewardXp    Int       @default(0)
+  startsAt    DateTime?
+  endsAt      DateTime?
+}
+
+model Classroom {
+  id        String    @id @default(cuid())
+  name      String
+  joinCode  String    @unique
+  ownerId   String
+  owner     User      @relation("ClassroomOwner", fields: [ownerId], references: [id], onDelete: Cascade)
+  members   Profile[]
+  createdAt DateTime  @default(now())
+}

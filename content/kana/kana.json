@@ -1,0 +1,2265 @@
+{
+  "attribution": "Kana characters and romanization are original educational data; no third-party dataset is included.",
+  "entries": [
+    {
+      "id": "hiragana-あ",
+      "character": "あ",
+      "romaji": "a",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "",
+      "detail": "あ is read a.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "hiragana-い",
+      "character": "い",
+      "romaji": "i",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "",
+      "detail": "い is read i.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "hiragana-う",
+      "character": "う",
+      "romaji": "u",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "",
+      "detail": "う is read u.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "hiragana-え",
+      "character": "え",
+      "romaji": "e",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "",
+      "detail": "え is read e.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "hiragana-お",
+      "character": "お",
+      "romaji": "o",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "",
+      "detail": "お is read o.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "hiragana-か",
+      "character": "か",
+      "romaji": "ka",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "k",
+      "detail": "か is read ka.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "hiragana-き",
+      "character": "き",
+      "romaji": "ki",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "k",
+      "detail": "き is read ki.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "hiragana-く",
+      "character": "く",
+      "romaji": "ku",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "k",
+      "detail": "く is read ku.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "hiragana-け",
+      "character": "け",
+      "romaji": "ke",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "k",
+      "detail": "け is read ke.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "hiragana-こ",
+      "character": "こ",
+      "romaji": "ko",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "k",
+      "detail": "こ is read ko.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "hiragana-さ",
+      "character": "さ",
+      "romaji": "sa",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "s",
+      "detail": "さ is read sa.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "hiragana-し",
+      "character": "し",
+      "romaji": "shi",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "s",
+      "detail": "し is read shi.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "hiragana-す",
+      "character": "す",
+      "romaji": "su",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "s",
+      "detail": "す is read su.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "hiragana-せ",
+      "character": "せ",
+      "romaji": "se",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "s",
+      "detail": "せ is read se.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "hiragana-そ",
+      "character": "そ",
+      "romaji": "so",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "s",
+      "detail": "そ is read so.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "hiragana-た",
+      "character": "た",
+      "romaji": "ta",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "t",
+      "detail": "た is read ta.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "hiragana-ち",
+      "character": "ち",
+      "romaji": "chi",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "t",
+      "detail": "ち is read chi.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "hiragana-つ",
+      "character": "つ",
+      "romaji": "tsu",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "t",
+      "detail": "つ is read tsu.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "hiragana-て",
+      "character": "て",
+      "romaji": "te",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "t",
+      "detail": "て is read te.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "hiragana-と",
+      "character": "と",
+      "romaji": "to",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "t",
+      "detail": "と is read to.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "hiragana-な",
+      "character": "な",
+      "romaji": "na",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "n",
+      "detail": "な is read na.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "hiragana-に",
+      "character": "に",
+      "romaji": "ni",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "n",
+      "detail": "に is read ni.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "hiragana-ぬ",
+      "character": "ぬ",
+      "romaji": "nu",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "n",
+      "detail": "ぬ is read nu.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "hiragana-ね",
+      "character": "ね",
+      "romaji": "ne",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "n",
+      "detail": "ね is read ne.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "hiragana-の",
+      "character": "の",
+      "romaji": "no",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "n",
+      "detail": "の is read no.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "hiragana-は",
+      "character": "は",
+      "romaji": "ha",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "h",
+      "detail": "は is read ha.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "hiragana-ひ",
+      "character": "ひ",
+      "romaji": "hi",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "h",
+      "detail": "ひ is read hi.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "hiragana-ふ",
+      "character": "ふ",
+      "romaji": "fu",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "h",
+      "detail": "ふ is read fu.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "hiragana-へ",
+      "character": "へ",
+      "romaji": "he",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "h",
+      "detail": "へ is read he.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "hiragana-ほ",
+      "character": "ほ",
+      "romaji": "ho",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "h",
+      "detail": "ほ is read ho.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "hiragana-ま",
+      "character": "ま",
+      "romaji": "ma",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "m",
+      "detail": "ま is read ma.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "hiragana-み",
+      "character": "み",
+      "romaji": "mi",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "m",
+      "detail": "み is read mi.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "hiragana-む",
+      "character": "む",
+      "romaji": "mu",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "m",
+      "detail": "む is read mu.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "hiragana-め",
+      "character": "め",
+      "romaji": "me",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "m",
+      "detail": "め is read me.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "hiragana-も",
+      "character": "も",
+      "romaji": "mo",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "m",
+      "detail": "も is read mo.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "hiragana-や",
+      "character": "や",
+      "romaji": "ya",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "y",
+      "detail": "や is read ya.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "hiragana-ゆ",
+      "character": "ゆ",
+      "romaji": "yu",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "y",
+      "detail": "ゆ is read yu.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "hiragana-よ",
+      "character": "よ",
+      "romaji": "yo",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "y",
+      "detail": "よ is read yo.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "hiragana-ら",
+      "character": "ら",
+      "romaji": "ra",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "r",
+      "detail": "ら is read ra.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "hiragana-り",
+      "character": "り",
+      "romaji": "ri",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "r",
+      "detail": "り is read ri.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "hiragana-る",
+      "character": "る",
+      "romaji": "ru",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "r",
+      "detail": "る is read ru.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "hiragana-れ",
+      "character": "れ",
+      "romaji": "re",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "r",
+      "detail": "れ is read re.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "hiragana-ろ",
+      "character": "ろ",
+      "romaji": "ro",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "r",
+      "detail": "ろ is read ro.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "hiragana-わ",
+      "character": "わ",
+      "romaji": "wa",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "w",
+      "detail": "わ is read wa.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "hiragana-を",
+      "character": "を",
+      "romaji": "wo",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "w",
+      "detail": "を is read wo.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "hiragana-ん",
+      "character": "ん",
+      "romaji": "n",
+      "script": "hiragana",
+      "category": "basic",
+      "row": "n",
+      "detail": "ん is read n.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "hiragana-が",
+      "character": "が",
+      "romaji": "ga",
+      "script": "hiragana",
+      "category": "dakuten",
+      "row": "g",
+      "detail": "が is read ga.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "hiragana-ぎ",
+      "character": "ぎ",
+      "romaji": "gi",
+      "script": "hiragana",
+      "category": "dakuten",
+      "row": "g",
+      "detail": "ぎ is read gi.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "hiragana-ぐ",
+      "character": "ぐ",
+      "romaji": "gu",
+      "script": "hiragana",
+      "category": "dakuten",
+      "row": "g",
+      "detail": "ぐ is read gu.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "hiragana-げ",
+      "character": "げ",
+      "romaji": "ge",
+      "script": "hiragana",
+      "category": "dakuten",
+      "row": "g",
+      "detail": "げ is read ge.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "hiragana-ご",
+      "character": "ご",
+      "romaji": "go",
+      "script": "hiragana",
+      "category": "dakuten",
+      "row": "g",
+      "detail": "ご is read go.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "hiragana-ざ",
+      "character": "ざ",
+      "romaji": "za",
+      "script": "hiragana",
+      "category": "dakuten",
+      "row": "z",
+      "detail": "ざ is read za.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "hiragana-じ",
+      "character": "じ",
+      "romaji": "ji",
+      "script": "hiragana",
+      "category": "dakuten",
+      "row": "z",
+      "detail": "じ is read ji.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "hiragana-ず",
+      "character": "ず",
+      "romaji": "zu",
+      "script": "hiragana",
+      "category": "dakuten",
+      "row": "z",
+      "detail": "ず is read zu.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "hiragana-ぜ",
+      "character": "ぜ",
+      "romaji": "ze",
+      "script": "hiragana",
+      "category": "dakuten",
+      "row": "z",
+      "detail": "ぜ is read ze.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "hiragana-ぞ",
+      "character": "ぞ",
+      "romaji": "zo",
+      "script": "hiragana",
+      "category": "dakuten",
+      "row": "z",
+      "detail": "ぞ is read zo.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "hiragana-だ",
+      "character": "だ",
+      "romaji": "da",
+      "script": "hiragana",
+      "category": "dakuten",
+      "row": "d",
+      "detail": "だ is read da.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "hiragana-ぢ",
+      "character": "ぢ",
+      "romaji": "ji",
+      "script": "hiragana",
+      "category": "dakuten",
+      "row": "d",
+      "detail": "ぢ is read ji.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "hiragana-づ",
+      "character": "づ",
+      "romaji": "zu",
+      "script": "hiragana",
+      "category": "dakuten",
+      "row": "d",
+      "detail": "づ is read zu.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "hiragana-で",
+      "character": "で",
+      "romaji": "de",
+      "script": "hiragana",
+      "category": "dakuten",
+      "row": "d",
+      "detail": "で is read de.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "hiragana-ど",
+      "character": "ど",
+      "romaji": "do",
+      "script": "hiragana",
+      "category": "dakuten",
+      "row": "d",
+      "detail": "ど is read do.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "hiragana-ば",
+      "character": "ば",
+      "romaji": "ba",
+      "script": "hiragana",
+      "category": "dakuten",
+      "row": "b",
+      "detail": "ば is read ba.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "hiragana-び",
+      "character": "び",
+      "romaji": "bi",
+      "script": "hiragana",
+      "category": "dakuten",
+      "row": "b",
+      "detail": "び is read bi.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "hiragana-ぶ",
+      "character": "ぶ",
+      "romaji": "bu",
+      "script": "hiragana",
+      "category": "dakuten",
+      "row": "b",
+      "detail": "ぶ is read bu.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "hiragana-べ",
+      "character": "べ",
+      "romaji": "be",
+      "script": "hiragana",
+      "category": "dakuten",
+      "row": "b",
+      "detail": "べ is read be.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "hiragana-ぼ",
+      "character": "ぼ",
+      "romaji": "bo",
+      "script": "hiragana",
+      "category": "dakuten",
+      "row": "b",
+      "detail": "ぼ is read bo.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "hiragana-ぱ",
+      "character": "ぱ",
+      "romaji": "pa",
+      "script": "hiragana",
+      "category": "handakuten",
+      "row": "p",
+      "detail": "ぱ is read pa.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "hiragana-ぴ",
+      "character": "ぴ",
+      "romaji": "pi",
+      "script": "hiragana",
+      "category": "handakuten",
+      "row": "p",
+      "detail": "ぴ is read pi.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "hiragana-ぷ",
+      "character": "ぷ",
+      "romaji": "pu",
+      "script": "hiragana",
+      "category": "handakuten",
+      "row": "p",
+      "detail": "ぷ is read pu.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "hiragana-ぺ",
+      "character": "ぺ",
+      "romaji": "pe",
+      "script": "hiragana",
+      "category": "handakuten",
+      "row": "p",
+      "detail": "ぺ is read pe.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "hiragana-ぽ",
+      "character": "ぽ",
+      "romaji": "po",
+      "script": "hiragana",
+      "category": "handakuten",
+      "row": "p",
+      "detail": "ぽ is read po.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "hiragana-きゃ",
+      "character": "きゃ",
+      "romaji": "ka",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "き",
+      "detail": "きゃ combines き with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "hiragana-きゅ",
+      "character": "きゅ",
+      "romaji": "ku",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "き",
+      "detail": "きゅ combines き with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "hiragana-きょ",
+      "character": "きょ",
+      "romaji": "ko",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "き",
+      "detail": "きょ combines き with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "hiragana-ぎゃ",
+      "character": "ぎゃ",
+      "romaji": "ga",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "ぎ",
+      "detail": "ぎゃ combines ぎ with a small ゃ/ゅ/ょ sound.",
+      "strokes": [
+        "M30 35 Q50 20 70 35",
+        "M50 30 L50 76",
+        "M30 74 Q50 66 70 74",
+        "M58 60 Q70 54 79 61"
+      ]
+    },
+    {
+      "id": "hiragana-ぎゅ",
+      "character": "ぎゅ",
+      "romaji": "gu",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "ぎ",
+      "detail": "ぎゅ combines ぎ with a small ゃ/ゅ/ょ sound.",
+      "strokes": [
+        "M30 35 Q50 20 70 35",
+        "M50 30 L50 76",
+        "M30 74 Q50 66 70 74",
+        "M58 60 Q70 54 79 61"
+      ]
+    },
+    {
+      "id": "hiragana-ぎょ",
+      "character": "ぎょ",
+      "romaji": "go",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "ぎ",
+      "detail": "ぎょ combines ぎ with a small ゃ/ゅ/ょ sound.",
+      "strokes": [
+        "M30 35 Q50 20 70 35",
+        "M50 30 L50 76",
+        "M30 74 Q50 66 70 74",
+        "M58 60 Q70 54 79 61"
+      ]
+    },
+    {
+      "id": "hiragana-しゃ",
+      "character": "しゃ",
+      "romaji": "sha",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "し",
+      "detail": "しゃ combines し with a small ゃ/ゅ/ょ sound.",
+      "strokes": [
+        "M30 35 Q50 20 70 35",
+        "M50 30 L50 76",
+        "M30 74 Q50 66 70 74",
+        "M58 60 Q70 54 79 61"
+      ]
+    },
+    {
+      "id": "hiragana-しゅ",
+      "character": "しゅ",
+      "romaji": "shu",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "し",
+      "detail": "しゅ combines し with a small ゃ/ゅ/ょ sound.",
+      "strokes": [
+        "M30 35 Q50 20 70 35",
+        "M50 30 L50 76",
+        "M30 74 Q50 66 70 74",
+        "M58 60 Q70 54 79 61"
+      ]
+    },
+    {
+      "id": "hiragana-しょ",
+      "character": "しょ",
+      "romaji": "sho",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "し",
+      "detail": "しょ combines し with a small ゃ/ゅ/ょ sound.",
+      "strokes": [
+        "M30 35 Q50 20 70 35",
+        "M50 30 L50 76",
+        "M30 74 Q50 66 70 74",
+        "M58 60 Q70 54 79 61"
+      ]
+    },
+    {
+      "id": "hiragana-じゃ",
+      "character": "じゃ",
+      "romaji": "ja",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "じ",
+      "detail": "じゃ combines じ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "hiragana-じゅ",
+      "character": "じゅ",
+      "romaji": "ju",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "じ",
+      "detail": "じゅ combines じ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "hiragana-じょ",
+      "character": "じょ",
+      "romaji": "jo",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "じ",
+      "detail": "じょ combines じ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "hiragana-ちゃ",
+      "character": "ちゃ",
+      "romaji": "cha",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "ち",
+      "detail": "ちゃ combines ち with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "hiragana-ちゅ",
+      "character": "ちゅ",
+      "romaji": "chu",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "ち",
+      "detail": "ちゅ combines ち with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "hiragana-ちょ",
+      "character": "ちょ",
+      "romaji": "cho",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "ち",
+      "detail": "ちょ combines ち with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "hiragana-ぢゃ",
+      "character": "ぢゃ",
+      "romaji": "ja",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "ぢ",
+      "detail": "ぢゃ combines ぢ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "hiragana-ぢゅ",
+      "character": "ぢゅ",
+      "romaji": "ju",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "ぢ",
+      "detail": "ぢゅ combines ぢ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "hiragana-ぢょ",
+      "character": "ぢょ",
+      "romaji": "jo",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "ぢ",
+      "detail": "ぢょ combines ぢ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "hiragana-にゃ",
+      "character": "にゃ",
+      "romaji": "nya",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "に",
+      "detail": "にゃ combines に with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "hiragana-にゅ",
+      "character": "にゅ",
+      "romaji": "nyu",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "に",
+      "detail": "にゅ combines に with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "hiragana-にょ",
+      "character": "にょ",
+      "romaji": "nyo",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "に",
+      "detail": "にょ combines に with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "hiragana-ひゃ",
+      "character": "ひゃ",
+      "romaji": "hya",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "ひ",
+      "detail": "ひゃ combines ひ with a small ゃ/ゅ/ょ sound.",
+      "strokes": [
+        "M30 35 Q50 20 70 35",
+        "M50 30 L50 76",
+        "M30 74 Q50 66 70 74",
+        "M58 60 Q70 54 79 61"
+      ]
+    },
+    {
+      "id": "hiragana-ひゅ",
+      "character": "ひゅ",
+      "romaji": "hyu",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "ひ",
+      "detail": "ひゅ combines ひ with a small ゃ/ゅ/ょ sound.",
+      "strokes": [
+        "M30 35 Q50 20 70 35",
+        "M50 30 L50 76",
+        "M30 74 Q50 66 70 74",
+        "M58 60 Q70 54 79 61"
+      ]
+    },
+    {
+      "id": "hiragana-ひょ",
+      "character": "ひょ",
+      "romaji": "hyo",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "ひ",
+      "detail": "ひょ combines ひ with a small ゃ/ゅ/ょ sound.",
+      "strokes": [
+        "M30 35 Q50 20 70 35",
+        "M50 30 L50 76",
+        "M30 74 Q50 66 70 74",
+        "M58 60 Q70 54 79 61"
+      ]
+    },
+    {
+      "id": "hiragana-びゃ",
+      "character": "びゃ",
+      "romaji": "bya",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "び",
+      "detail": "びゃ combines び with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "hiragana-びゅ",
+      "character": "びゅ",
+      "romaji": "byu",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "び",
+      "detail": "びゅ combines び with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "hiragana-びょ",
+      "character": "びょ",
+      "romaji": "byo",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "び",
+      "detail": "びょ combines び with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "hiragana-ぴゃ",
+      "character": "ぴゃ",
+      "romaji": "pya",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "ぴ",
+      "detail": "ぴゃ combines ぴ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "hiragana-ぴゅ",
+      "character": "ぴゅ",
+      "romaji": "pyu",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "ぴ",
+      "detail": "ぴゅ combines ぴ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "hiragana-ぴょ",
+      "character": "ぴょ",
+      "romaji": "pyo",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "ぴ",
+      "detail": "ぴょ combines ぴ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "hiragana-みゃ",
+      "character": "みゃ",
+      "romaji": "mya",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "み",
+      "detail": "みゃ combines み with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "hiragana-みゅ",
+      "character": "みゅ",
+      "romaji": "myu",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "み",
+      "detail": "みゅ combines み with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "hiragana-みょ",
+      "character": "みょ",
+      "romaji": "myo",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "み",
+      "detail": "みょ combines み with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "hiragana-りゃ",
+      "character": "りゃ",
+      "romaji": "rya",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "り",
+      "detail": "りゃ combines り with a small ゃ/ゅ/ょ sound.",
+      "strokes": [
+        "M30 35 Q50 20 70 35",
+        "M50 30 L50 76",
+        "M30 74 Q50 66 70 74",
+        "M58 60 Q70 54 79 61"
+      ]
+    },
+    {
+      "id": "hiragana-りゅ",
+      "character": "りゅ",
+      "romaji": "ryu",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "り",
+      "detail": "りゅ combines り with a small ゃ/ゅ/ょ sound.",
+      "strokes": [
+        "M30 35 Q50 20 70 35",
+        "M50 30 L50 76",
+        "M30 74 Q50 66 70 74",
+        "M58 60 Q70 54 79 61"
+      ]
+    },
+    {
+      "id": "hiragana-りょ",
+      "character": "りょ",
+      "romaji": "ryo",
+      "script": "hiragana",
+      "category": "combination",
+      "row": "り",
+      "detail": "りょ combines り with a small ゃ/ゅ/ょ sound.",
+      "strokes": [
+        "M30 35 Q50 20 70 35",
+        "M50 30 L50 76",
+        "M30 74 Q50 66 70 74",
+        "M58 60 Q70 54 79 61"
+      ]
+    },
+    {
+      "id": "katakana-ア",
+      "character": "ア",
+      "romaji": "a",
+      "script": "katakana",
+      "category": "basic",
+      "row": "",
+      "detail": "ア is read a.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "katakana-イ",
+      "character": "イ",
+      "romaji": "i",
+      "script": "katakana",
+      "category": "basic",
+      "row": "",
+      "detail": "イ is read i.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "katakana-ウ",
+      "character": "ウ",
+      "romaji": "u",
+      "script": "katakana",
+      "category": "basic",
+      "row": "",
+      "detail": "ウ is read u.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "katakana-エ",
+      "character": "エ",
+      "romaji": "e",
+      "script": "katakana",
+      "category": "basic",
+      "row": "",
+      "detail": "エ is read e.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "katakana-オ",
+      "character": "オ",
+      "romaji": "o",
+      "script": "katakana",
+      "category": "basic",
+      "row": "",
+      "detail": "オ is read o.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "katakana-カ",
+      "character": "カ",
+      "romaji": "ka",
+      "script": "katakana",
+      "category": "basic",
+      "row": "k",
+      "detail": "カ is read ka.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "katakana-キ",
+      "character": "キ",
+      "romaji": "ki",
+      "script": "katakana",
+      "category": "basic",
+      "row": "k",
+      "detail": "キ is read ki.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "katakana-ク",
+      "character": "ク",
+      "romaji": "ku",
+      "script": "katakana",
+      "category": "basic",
+      "row": "k",
+      "detail": "ク is read ku.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "katakana-ケ",
+      "character": "ケ",
+      "romaji": "ke",
+      "script": "katakana",
+      "category": "basic",
+      "row": "k",
+      "detail": "ケ is read ke.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "katakana-コ",
+      "character": "コ",
+      "romaji": "ko",
+      "script": "katakana",
+      "category": "basic",
+      "row": "k",
+      "detail": "コ is read ko.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "katakana-サ",
+      "character": "サ",
+      "romaji": "sa",
+      "script": "katakana",
+      "category": "basic",
+      "row": "s",
+      "detail": "サ is read sa.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "katakana-シ",
+      "character": "シ",
+      "romaji": "shi",
+      "script": "katakana",
+      "category": "basic",
+      "row": "s",
+      "detail": "シ is read shi.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "katakana-ス",
+      "character": "ス",
+      "romaji": "su",
+      "script": "katakana",
+      "category": "basic",
+      "row": "s",
+      "detail": "ス is read su.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "katakana-セ",
+      "character": "セ",
+      "romaji": "se",
+      "script": "katakana",
+      "category": "basic",
+      "row": "s",
+      "detail": "セ is read se.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "katakana-ソ",
+      "character": "ソ",
+      "romaji": "so",
+      "script": "katakana",
+      "category": "basic",
+      "row": "s",
+      "detail": "ソ is read so.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "katakana-タ",
+      "character": "タ",
+      "romaji": "ta",
+      "script": "katakana",
+      "category": "basic",
+      "row": "t",
+      "detail": "タ is read ta.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "katakana-チ",
+      "character": "チ",
+      "romaji": "chi",
+      "script": "katakana",
+      "category": "basic",
+      "row": "t",
+      "detail": "チ is read chi.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "katakana-ツ",
+      "character": "ツ",
+      "romaji": "tsu",
+      "script": "katakana",
+      "category": "basic",
+      "row": "t",
+      "detail": "ツ is read tsu.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "katakana-テ",
+      "character": "テ",
+      "romaji": "te",
+      "script": "katakana",
+      "category": "basic",
+      "row": "t",
+      "detail": "テ is read te.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "katakana-ト",
+      "character": "ト",
+      "romaji": "to",
+      "script": "katakana",
+      "category": "basic",
+      "row": "t",
+      "detail": "ト is read to.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "katakana-ナ",
+      "character": "ナ",
+      "romaji": "na",
+      "script": "katakana",
+      "category": "basic",
+      "row": "n",
+      "detail": "ナ is read na.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "katakana-ニ",
+      "character": "ニ",
+      "romaji": "ni",
+      "script": "katakana",
+      "category": "basic",
+      "row": "n",
+      "detail": "ニ is read ni.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "katakana-ヌ",
+      "character": "ヌ",
+      "romaji": "nu",
+      "script": "katakana",
+      "category": "basic",
+      "row": "n",
+      "detail": "ヌ is read nu.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "katakana-ネ",
+      "character": "ネ",
+      "romaji": "ne",
+      "script": "katakana",
+      "category": "basic",
+      "row": "n",
+      "detail": "ネ is read ne.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "katakana-ノ",
+      "character": "ノ",
+      "romaji": "no",
+      "script": "katakana",
+      "category": "basic",
+      "row": "n",
+      "detail": "ノ is read no.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "katakana-ハ",
+      "character": "ハ",
+      "romaji": "ha",
+      "script": "katakana",
+      "category": "basic",
+      "row": "h",
+      "detail": "ハ is read ha.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "katakana-ヒ",
+      "character": "ヒ",
+      "romaji": "hi",
+      "script": "katakana",
+      "category": "basic",
+      "row": "h",
+      "detail": "ヒ is read hi.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "katakana-フ",
+      "character": "フ",
+      "romaji": "fu",
+      "script": "katakana",
+      "category": "basic",
+      "row": "h",
+      "detail": "フ is read fu.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "katakana-ヘ",
+      "character": "ヘ",
+      "romaji": "he",
+      "script": "katakana",
+      "category": "basic",
+      "row": "h",
+      "detail": "ヘ is read he.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "katakana-ホ",
+      "character": "ホ",
+      "romaji": "ho",
+      "script": "katakana",
+      "category": "basic",
+      "row": "h",
+      "detail": "ホ is read ho.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "katakana-マ",
+      "character": "マ",
+      "romaji": "ma",
+      "script": "katakana",
+      "category": "basic",
+      "row": "m",
+      "detail": "マ is read ma.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "katakana-ミ",
+      "character": "ミ",
+      "romaji": "mi",
+      "script": "katakana",
+      "category": "basic",
+      "row": "m",
+      "detail": "ミ is read mi.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "katakana-ム",
+      "character": "ム",
+      "romaji": "mu",
+      "script": "katakana",
+      "category": "basic",
+      "row": "m",
+      "detail": "ム is read mu.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "katakana-メ",
+      "character": "メ",
+      "romaji": "me",
+      "script": "katakana",
+      "category": "basic",
+      "row": "m",
+      "detail": "メ is read me.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "katakana-モ",
+      "character": "モ",
+      "romaji": "mo",
+      "script": "katakana",
+      "category": "basic",
+      "row": "m",
+      "detail": "モ is read mo.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "katakana-ヤ",
+      "character": "ヤ",
+      "romaji": "ya",
+      "script": "katakana",
+      "category": "basic",
+      "row": "y",
+      "detail": "ヤ is read ya.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "katakana-ユ",
+      "character": "ユ",
+      "romaji": "yu",
+      "script": "katakana",
+      "category": "basic",
+      "row": "y",
+      "detail": "ユ is read yu.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "katakana-ヨ",
+      "character": "ヨ",
+      "romaji": "yo",
+      "script": "katakana",
+      "category": "basic",
+      "row": "y",
+      "detail": "ヨ is read yo.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "katakana-ラ",
+      "character": "ラ",
+      "romaji": "ra",
+      "script": "katakana",
+      "category": "basic",
+      "row": "r",
+      "detail": "ラ is read ra.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "katakana-リ",
+      "character": "リ",
+      "romaji": "ri",
+      "script": "katakana",
+      "category": "basic",
+      "row": "r",
+      "detail": "リ is read ri.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "katakana-ル",
+      "character": "ル",
+      "romaji": "ru",
+      "script": "katakana",
+      "category": "basic",
+      "row": "r",
+      "detail": "ル is read ru.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "katakana-レ",
+      "character": "レ",
+      "romaji": "re",
+      "script": "katakana",
+      "category": "basic",
+      "row": "r",
+      "detail": "レ is read re.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "katakana-ロ",
+      "character": "ロ",
+      "romaji": "ro",
+      "script": "katakana",
+      "category": "basic",
+      "row": "r",
+      "detail": "ロ is read ro.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "katakana-ワ",
+      "character": "ワ",
+      "romaji": "wa",
+      "script": "katakana",
+      "category": "basic",
+      "row": "w",
+      "detail": "ワ is read wa.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "katakana-ヲ",
+      "character": "ヲ",
+      "romaji": "wo",
+      "script": "katakana",
+      "category": "basic",
+      "row": "w",
+      "detail": "ヲ is read wo.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "katakana-ン",
+      "character": "ン",
+      "romaji": "n",
+      "script": "katakana",
+      "category": "basic",
+      "row": "n",
+      "detail": "ン is read n.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "katakana-ガ",
+      "character": "ガ",
+      "romaji": "ga",
+      "script": "katakana",
+      "category": "dakuten",
+      "row": "g",
+      "detail": "ガ is read ga.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "katakana-ギ",
+      "character": "ギ",
+      "romaji": "gi",
+      "script": "katakana",
+      "category": "dakuten",
+      "row": "g",
+      "detail": "ギ is read gi.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "katakana-グ",
+      "character": "グ",
+      "romaji": "gu",
+      "script": "katakana",
+      "category": "dakuten",
+      "row": "g",
+      "detail": "グ is read gu.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "katakana-ゲ",
+      "character": "ゲ",
+      "romaji": "ge",
+      "script": "katakana",
+      "category": "dakuten",
+      "row": "g",
+      "detail": "ゲ is read ge.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "katakana-ゴ",
+      "character": "ゴ",
+      "romaji": "go",
+      "script": "katakana",
+      "category": "dakuten",
+      "row": "g",
+      "detail": "ゴ is read go.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "katakana-ザ",
+      "character": "ザ",
+      "romaji": "za",
+      "script": "katakana",
+      "category": "dakuten",
+      "row": "z",
+      "detail": "ザ is read za.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "katakana-ジ",
+      "character": "ジ",
+      "romaji": "ji",
+      "script": "katakana",
+      "category": "dakuten",
+      "row": "z",
+      "detail": "ジ is read ji.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "katakana-ズ",
+      "character": "ズ",
+      "romaji": "zu",
+      "script": "katakana",
+      "category": "dakuten",
+      "row": "z",
+      "detail": "ズ is read zu.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "katakana-ゼ",
+      "character": "ゼ",
+      "romaji": "ze",
+      "script": "katakana",
+      "category": "dakuten",
+      "row": "z",
+      "detail": "ゼ is read ze.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "katakana-ゾ",
+      "character": "ゾ",
+      "romaji": "zo",
+      "script": "katakana",
+      "category": "dakuten",
+      "row": "z",
+      "detail": "ゾ is read zo.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "katakana-ダ",
+      "character": "ダ",
+      "romaji": "da",
+      "script": "katakana",
+      "category": "dakuten",
+      "row": "d",
+      "detail": "ダ is read da.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "katakana-ヂ",
+      "character": "ヂ",
+      "romaji": "ji",
+      "script": "katakana",
+      "category": "dakuten",
+      "row": "d",
+      "detail": "ヂ is read ji.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "katakana-ヅ",
+      "character": "ヅ",
+      "romaji": "zu",
+      "script": "katakana",
+      "category": "dakuten",
+      "row": "d",
+      "detail": "ヅ is read zu.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "katakana-デ",
+      "character": "デ",
+      "romaji": "de",
+      "script": "katakana",
+      "category": "dakuten",
+      "row": "d",
+      "detail": "デ is read de.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "katakana-ド",
+      "character": "ド",
+      "romaji": "do",
+      "script": "katakana",
+      "category": "dakuten",
+      "row": "d",
+      "detail": "ド is read do.",
+      "strokes": ["M30 35 Q50 20 70 35", "M50 30 L50 76", "M30 74 Q50 66 70 74"]
+    },
+    {
+      "id": "katakana-バ",
+      "character": "バ",
+      "romaji": "ba",
+      "script": "katakana",
+      "category": "dakuten",
+      "row": "b",
+      "detail": "バ is read ba.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "katakana-ビ",
+      "character": "ビ",
+      "romaji": "bi",
+      "script": "katakana",
+      "category": "dakuten",
+      "row": "b",
+      "detail": "ビ is read bi.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "katakana-ブ",
+      "character": "ブ",
+      "romaji": "bu",
+      "script": "katakana",
+      "category": "dakuten",
+      "row": "b",
+      "detail": "ブ is read bu.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "katakana-ベ",
+      "character": "ベ",
+      "romaji": "be",
+      "script": "katakana",
+      "category": "dakuten",
+      "row": "b",
+      "detail": "ベ is read be.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "katakana-ボ",
+      "character": "ボ",
+      "romaji": "bo",
+      "script": "katakana",
+      "category": "dakuten",
+      "row": "b",
+      "detail": "ボ is read bo.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78"]
+    },
+    {
+      "id": "katakana-パ",
+      "character": "パ",
+      "romaji": "pa",
+      "script": "katakana",
+      "category": "handakuten",
+      "row": "p",
+      "detail": "パ is read pa.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "katakana-ピ",
+      "character": "ピ",
+      "romaji": "pi",
+      "script": "katakana",
+      "category": "handakuten",
+      "row": "p",
+      "detail": "ピ is read pi.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "katakana-プ",
+      "character": "プ",
+      "romaji": "pu",
+      "script": "katakana",
+      "category": "handakuten",
+      "row": "p",
+      "detail": "プ is read pu.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "katakana-ペ",
+      "character": "ペ",
+      "romaji": "pe",
+      "script": "katakana",
+      "category": "handakuten",
+      "row": "p",
+      "detail": "ペ is read pe.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "katakana-ポ",
+      "character": "ポ",
+      "romaji": "po",
+      "script": "katakana",
+      "category": "handakuten",
+      "row": "p",
+      "detail": "ポ is read po.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76"]
+    },
+    {
+      "id": "katakana-キ",
+      "character": "キ",
+      "romaji": "ka",
+      "script": "katakana",
+      "category": "combination",
+      "row": "キ",
+      "detail": "キ combines キ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "katakana-キ",
+      "character": "キ",
+      "romaji": "ku",
+      "script": "katakana",
+      "category": "combination",
+      "row": "キ",
+      "detail": "キ combines キ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "katakana-キ",
+      "character": "キ",
+      "romaji": "ko",
+      "script": "katakana",
+      "category": "combination",
+      "row": "キ",
+      "detail": "キ combines キ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "katakana-ギ",
+      "character": "ギ",
+      "romaji": "ga",
+      "script": "katakana",
+      "category": "combination",
+      "row": "ギ",
+      "detail": "ギ combines ギ with a small ゃ/ゅ/ょ sound.",
+      "strokes": [
+        "M30 35 Q50 20 70 35",
+        "M50 30 L50 76",
+        "M30 74 Q50 66 70 74",
+        "M58 60 Q70 54 79 61"
+      ]
+    },
+    {
+      "id": "katakana-ギ",
+      "character": "ギ",
+      "romaji": "gu",
+      "script": "katakana",
+      "category": "combination",
+      "row": "ギ",
+      "detail": "ギ combines ギ with a small ゃ/ゅ/ょ sound.",
+      "strokes": [
+        "M30 35 Q50 20 70 35",
+        "M50 30 L50 76",
+        "M30 74 Q50 66 70 74",
+        "M58 60 Q70 54 79 61"
+      ]
+    },
+    {
+      "id": "katakana-ギ",
+      "character": "ギ",
+      "romaji": "go",
+      "script": "katakana",
+      "category": "combination",
+      "row": "ギ",
+      "detail": "ギ combines ギ with a small ゃ/ゅ/ょ sound.",
+      "strokes": [
+        "M30 35 Q50 20 70 35",
+        "M50 30 L50 76",
+        "M30 74 Q50 66 70 74",
+        "M58 60 Q70 54 79 61"
+      ]
+    },
+    {
+      "id": "katakana-シ",
+      "character": "シ",
+      "romaji": "sha",
+      "script": "katakana",
+      "category": "combination",
+      "row": "シ",
+      "detail": "シ combines シ with a small ゃ/ゅ/ょ sound.",
+      "strokes": [
+        "M30 35 Q50 20 70 35",
+        "M50 30 L50 76",
+        "M30 74 Q50 66 70 74",
+        "M58 60 Q70 54 79 61"
+      ]
+    },
+    {
+      "id": "katakana-シ",
+      "character": "シ",
+      "romaji": "shu",
+      "script": "katakana",
+      "category": "combination",
+      "row": "シ",
+      "detail": "シ combines シ with a small ゃ/ゅ/ょ sound.",
+      "strokes": [
+        "M30 35 Q50 20 70 35",
+        "M50 30 L50 76",
+        "M30 74 Q50 66 70 74",
+        "M58 60 Q70 54 79 61"
+      ]
+    },
+    {
+      "id": "katakana-シ",
+      "character": "シ",
+      "romaji": "sho",
+      "script": "katakana",
+      "category": "combination",
+      "row": "シ",
+      "detail": "シ combines シ with a small ゃ/ゅ/ょ sound.",
+      "strokes": [
+        "M30 35 Q50 20 70 35",
+        "M50 30 L50 76",
+        "M30 74 Q50 66 70 74",
+        "M58 60 Q70 54 79 61"
+      ]
+    },
+    {
+      "id": "katakana-ジ",
+      "character": "ジ",
+      "romaji": "ja",
+      "script": "katakana",
+      "category": "combination",
+      "row": "ジ",
+      "detail": "ジ combines ジ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "katakana-ジ",
+      "character": "ジ",
+      "romaji": "ju",
+      "script": "katakana",
+      "category": "combination",
+      "row": "ジ",
+      "detail": "ジ combines ジ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "katakana-ジ",
+      "character": "ジ",
+      "romaji": "jo",
+      "script": "katakana",
+      "category": "combination",
+      "row": "ジ",
+      "detail": "ジ combines ジ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "katakana-チ",
+      "character": "チ",
+      "romaji": "cha",
+      "script": "katakana",
+      "category": "combination",
+      "row": "チ",
+      "detail": "チ combines チ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "katakana-チ",
+      "character": "チ",
+      "romaji": "chu",
+      "script": "katakana",
+      "category": "combination",
+      "row": "チ",
+      "detail": "チ combines チ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "katakana-チ",
+      "character": "チ",
+      "romaji": "cho",
+      "script": "katakana",
+      "category": "combination",
+      "row": "チ",
+      "detail": "チ combines チ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "katakana-ヂ",
+      "character": "ヂ",
+      "romaji": "ja",
+      "script": "katakana",
+      "category": "combination",
+      "row": "ヂ",
+      "detail": "ヂ combines ヂ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "katakana-ヂ",
+      "character": "ヂ",
+      "romaji": "ju",
+      "script": "katakana",
+      "category": "combination",
+      "row": "ヂ",
+      "detail": "ヂ combines ヂ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "katakana-ヂ",
+      "character": "ヂ",
+      "romaji": "jo",
+      "script": "katakana",
+      "category": "combination",
+      "row": "ヂ",
+      "detail": "ヂ combines ヂ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "katakana-ニ",
+      "character": "ニ",
+      "romaji": "nya",
+      "script": "katakana",
+      "category": "combination",
+      "row": "ニ",
+      "detail": "ニ combines ニ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "katakana-ニ",
+      "character": "ニ",
+      "romaji": "nyu",
+      "script": "katakana",
+      "category": "combination",
+      "row": "ニ",
+      "detail": "ニ combines ニ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "katakana-ニ",
+      "character": "ニ",
+      "romaji": "nyo",
+      "script": "katakana",
+      "category": "combination",
+      "row": "ニ",
+      "detail": "ニ combines ニ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "katakana-ヒ",
+      "character": "ヒ",
+      "romaji": "hya",
+      "script": "katakana",
+      "category": "combination",
+      "row": "ヒ",
+      "detail": "ヒ combines ヒ with a small ゃ/ゅ/ょ sound.",
+      "strokes": [
+        "M30 35 Q50 20 70 35",
+        "M50 30 L50 76",
+        "M30 74 Q50 66 70 74",
+        "M58 60 Q70 54 79 61"
+      ]
+    },
+    {
+      "id": "katakana-ヒ",
+      "character": "ヒ",
+      "romaji": "hyu",
+      "script": "katakana",
+      "category": "combination",
+      "row": "ヒ",
+      "detail": "ヒ combines ヒ with a small ゃ/ゅ/ょ sound.",
+      "strokes": [
+        "M30 35 Q50 20 70 35",
+        "M50 30 L50 76",
+        "M30 74 Q50 66 70 74",
+        "M58 60 Q70 54 79 61"
+      ]
+    },
+    {
+      "id": "katakana-ヒ",
+      "character": "ヒ",
+      "romaji": "hyo",
+      "script": "katakana",
+      "category": "combination",
+      "row": "ヒ",
+      "detail": "ヒ combines ヒ with a small ゃ/ゅ/ょ sound.",
+      "strokes": [
+        "M30 35 Q50 20 70 35",
+        "M50 30 L50 76",
+        "M30 74 Q50 66 70 74",
+        "M58 60 Q70 54 79 61"
+      ]
+    },
+    {
+      "id": "katakana-ビ",
+      "character": "ビ",
+      "romaji": "bya",
+      "script": "katakana",
+      "category": "combination",
+      "row": "ビ",
+      "detail": "ビ combines ビ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "katakana-ビ",
+      "character": "ビ",
+      "romaji": "byu",
+      "script": "katakana",
+      "category": "combination",
+      "row": "ビ",
+      "detail": "ビ combines ビ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "katakana-ビ",
+      "character": "ビ",
+      "romaji": "byo",
+      "script": "katakana",
+      "category": "combination",
+      "row": "ビ",
+      "detail": "ビ combines ビ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "katakana-ピ",
+      "character": "ピ",
+      "romaji": "pya",
+      "script": "katakana",
+      "category": "combination",
+      "row": "ピ",
+      "detail": "ピ combines ピ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "katakana-ピ",
+      "character": "ピ",
+      "romaji": "pyu",
+      "script": "katakana",
+      "category": "combination",
+      "row": "ピ",
+      "detail": "ピ combines ピ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "katakana-ピ",
+      "character": "ピ",
+      "romaji": "pyo",
+      "script": "katakana",
+      "category": "combination",
+      "row": "ピ",
+      "detail": "ピ combines ピ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M28 34 Q52 22 72 38 Q51 57 30 70", "M50 30 L50 76", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "katakana-ミ",
+      "character": "ミ",
+      "romaji": "mya",
+      "script": "katakana",
+      "category": "combination",
+      "row": "ミ",
+      "detail": "ミ combines ミ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "katakana-ミ",
+      "character": "ミ",
+      "romaji": "myu",
+      "script": "katakana",
+      "category": "combination",
+      "row": "ミ",
+      "detail": "ミ combines ミ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "katakana-ミ",
+      "character": "ミ",
+      "romaji": "myo",
+      "script": "katakana",
+      "category": "combination",
+      "row": "ミ",
+      "detail": "ミ combines ミ with a small ゃ/ゅ/ょ sound.",
+      "strokes": ["M34 28 L66 28 L66 70 Q50 84 34 70 Z", "M50 24 L50 78", "M58 60 Q70 54 79 61"]
+    },
+    {
+      "id": "katakana-リ",
+      "character": "リ",
+      "romaji": "rya",
+      "script": "katakana",
+      "category": "combination",
+      "row": "リ",
+      "detail": "リ combines リ with a small ゃ/ゅ/ょ sound.",
+      "strokes": [
+        "M30 35 Q50 20 70 35",
+        "M50 30 L50 76",
+        "M30 74 Q50 66 70 74",
+        "M58 60 Q70 54 79 61"
+      ]
+    },
+    {
+      "id": "katakana-リ",
+      "character": "リ",
+      "romaji": "ryu",
+      "script": "katakana",
+      "category": "combination",
+      "row": "リ",
+      "detail": "リ combines リ with a small ゃ/ゅ/ょ sound.",
+      "strokes": [
+        "M30 35 Q50 20 70 35",
+        "M50 30 L50 76",
+        "M30 74 Q50 66 70 74",
+        "M58 60 Q70 54 79 61"
+      ]
+    },
+    {
+      "id": "katakana-リ",
+      "character": "リ",
+      "romaji": "ryo",
+      "script": "katakana",
+      "category": "combination",
+      "row": "リ",
+      "detail": "リ combines リ with a small ゃ/ゅ/ょ sound.",
+      "strokes": [
+        "M30 35 Q50 20 70 35",
+        "M50 30 L50 76",
+        "M30 74 Q50 66 70 74",
+        "M58 60 Q70 54 79 61"
+      ]
+    }
+  ]
+}
