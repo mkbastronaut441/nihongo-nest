@@ -10,6 +10,7 @@ import { speakKana } from "@/lib/kana";
 import { grammarLessons, type GrammarLesson, type GrammarStep } from "@/lib/phase3-content";
 import { useLearning } from "@/store/learning";
 import { usePreferences } from "@/store/preferences";
+import { playCelebration } from "@/lib/sound";
 
 const clean = (value: string) => value.trim().replace(/[。？！?！\s]/g, "");
 
@@ -69,6 +70,7 @@ function LessonShelf({ done, skipped }: { done: string[]; skipped: string[] }) {
 
 function LessonRun({ lesson }: { lesson: GrammarLesson }) {
   const reducedMotion = usePreferences((state) => state.reducedMotion);
+  const soundMuted = usePreferences((state) => state.soundMuted);
   const completeLesson = useLearning((state) => state.completeLesson);
   const [stepIndex, setStepIndex] = useState(0);
   const [answer, setAnswer] = useState("");
@@ -97,6 +99,7 @@ function LessonRun({ lesson }: { lesson: GrammarLesson }) {
     if (stepIndex + 1 === lesson.steps.length) {
       const xp = 20 + score * 5;
       completeLesson(lesson.id, xp);
+      if (!soundMuted) playCelebration();
       setComplete(true);
       return;
     }

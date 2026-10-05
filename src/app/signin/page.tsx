@@ -58,10 +58,10 @@ export default function SignInPage() {
         <div className="signin-identity">
           <Mascot mood="happy" compact />
         </div>
-        <span className="eyebrow">PICK UP WHERE YOU LEFT OFF</span>
-        <h1>Welcome back to your nest</h1>
+        <span className="eyebrow">YOUR LEARNING, SAVED SAFELY</span>
+        <h1>Sign in or create your nest</h1>
         <p className="onboarding-lead">
-          Save your cozy corner and bring your guest preferences along when you sign in.
+          Your guest progress, reviews, and settings come with you when you create an account.
         </p>
         {providers?.google && (
           <Button

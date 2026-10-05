@@ -2,6 +2,7 @@
 
 import { usePreferences, type AgeMode } from "@/store/preferences";
 import { Card } from "@/components/ui";
+import { useLearning } from "@/store/learning";
 
 const ageOptions: { id: AgeMode; title: string; description: string }[] = [
   { id: "kids", title: "Kids", description: "Bright, playful & voice-guided" },
@@ -15,6 +16,7 @@ const ageOptions: { id: AgeMode; title: string; description: string }[] = [
 
 export default function SettingsPanel() {
   const prefs = usePreferences();
+  const xp = useLearning((state) => state.xp);
   return (
     <section className="settings-grid" aria-label="Appearance and accessibility preferences">
       <Card className="settings-card settings-age">
@@ -91,6 +93,84 @@ export default function SettingsPanel() {
             onChange={(event) => prefs.setSetting("dyslexiaFont", event.target.checked)}
           />
         </label>
+      </Card>
+      <Card className="settings-card settings-community">
+        <span className="eyebrow">YOUR LITTLE COMPANION</span>
+        <h2>Dress up Mochi</h2>
+        <p>Earn XP while learning to open new cozy looks.</p>
+        <label className="setting-row">
+          <span>
+            <strong>Outfit</strong>
+            <small>
+              {xp < 100
+                ? "Sakura scarf opens at 100 XP"
+                : xp < 250
+                  ? "Traveler hat opens at 250 XP"
+                  : "All outfits are open"}
+            </small>
+          </span>
+          <select
+            aria-label="Mochi outfit"
+            value={prefs.mascotOutfit}
+            onChange={(event) => prefs.setCustomization("mascotOutfit", event.target.value)}
+          >
+            <option value="classic">Classic chick</option>
+            {xp >= 100 && <option value="sakura">Sakura scarf · 100 XP</option>}
+            {xp >= 250 && <option value="traveler">Traveler hat · 250 XP</option>}
+          </select>
+        </label>
+        <label className="setting-row">
+          <span>
+            <strong>Accent color</strong>
+            <small>Pick Mochi’s little badge</small>
+          </span>
+          <select
+            aria-label="Mochi accent color"
+            value={prefs.mascotColor}
+            onChange={(event) => prefs.setCustomization("mascotColor", event.target.value)}
+          >
+            <option value="sakura">Sakura</option>
+            <option value="indigo">Indigo</option>
+            <option value="matcha">Matcha</option>
+          </select>
+        </label>
+        <label className="setting-row">
+          <span>
+            <strong>Sound effects</strong>
+            <small>Gentle sounds for little wins</small>
+          </span>
+          <input
+            type="checkbox"
+            checked={!prefs.soundMuted}
+            onChange={(event) => prefs.setSetting("soundMuted", !event.target.checked)}
+          />
+        </label>
+        <label className="setting-row">
+          <span>
+            <strong>Friendly leaderboard</strong>
+            <small>Only your nickname and XP appear</small>
+          </span>
+          <input
+            type="checkbox"
+            checked={prefs.leaderboardOptIn}
+            onChange={(event) => prefs.setSetting("leaderboardOptIn", event.target.checked)}
+          />
+        </label>
+        {prefs.leaderboardOptIn && (
+          <label className="setting-row">
+            <span>
+              <strong>Public nickname</strong>
+              <small>Keep personal details private</small>
+            </span>
+            <input
+              aria-label="Public nickname"
+              maxLength={24}
+              value={prefs.publicNickname}
+              onChange={(event) => prefs.setCustomization("publicNickname", event.target.value)}
+              placeholder="Sakura learner"
+            />
+          </label>
+        )}
       </Card>
     </section>
   );

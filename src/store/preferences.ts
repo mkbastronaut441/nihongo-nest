@@ -13,10 +13,24 @@ type Preferences = {
   highContrast: boolean;
   reducedMotion: boolean;
   dyslexiaFont: boolean;
+  soundMuted: boolean;
+  leaderboardOptIn: boolean;
+  publicNickname: string;
+  mascotOutfit: string;
+  mascotColor: string;
   hydrated: boolean;
   setProfile: (ageMode: AgeMode, goal: LearningGoal) => void;
   setAgeMode: (ageMode: AgeMode) => void;
-  setSetting: <K extends "fontScale" | "highContrast" | "reducedMotion" | "dyslexiaFont">(
+  setCustomization: (key: "publicNickname" | "mascotOutfit" | "mascotColor", value: string) => void;
+  setSetting: <
+    K extends
+      | "fontScale"
+      | "highContrast"
+      | "reducedMotion"
+      | "dyslexiaFont"
+      | "soundMuted"
+      | "leaderboardOptIn",
+  >(
     key: K,
     value: Preferences[K],
   ) => void;
@@ -32,9 +46,15 @@ export const usePreferences = create<Preferences>()(
       highContrast: false,
       reducedMotion: false,
       dyslexiaFont: false,
+      soundMuted: false,
+      leaderboardOptIn: false,
+      publicNickname: "",
+      mascotOutfit: "classic",
+      mascotColor: "sakura",
       hydrated: false,
       setProfile: (ageMode, goal) => set({ ageMode, goal }),
       setAgeMode: (ageMode) => set({ ageMode }),
+      setCustomization: (key, value) => set({ [key]: value }),
       setSetting: (key, value) => set({ [key]: value }),
       setHydrated: () => set({ hydrated: true }),
     }),
@@ -49,6 +69,11 @@ export const usePreferences = create<Preferences>()(
         highContrast: state.highContrast,
         reducedMotion: state.reducedMotion,
         dyslexiaFont: state.dyslexiaFont,
+        soundMuted: state.soundMuted,
+        leaderboardOptIn: state.leaderboardOptIn,
+        publicNickname: state.publicNickname,
+        mascotOutfit: state.mascotOutfit,
+        mascotColor: state.mascotColor,
       }),
       onRehydrateStorage: () => (state) => state?.setHydrated(),
     },

@@ -39,6 +39,8 @@ model User {
   profile       Profile?
   progress      Progress[]
   streak        Streak?
+  stats         UserStats?
+  quests        UserQuest[]
   reviewCards   ReviewCard[]
   userBadges    UserBadge[]
   classrooms    Classroom[]  @relation("ClassroomOwner")
@@ -81,20 +83,25 @@ model VerificationToken {
 }
 
 model Profile {
-  id            String     @id @default(cuid())
-  userId        String     @unique
-  ageGroup      AgeGroup   @default(ADULTS)
-  goal          Goal       @default(FUN)
-  theme         Theme      @default(AUTO)
-  fontScale     Float      @default(1)
-  highContrast  Boolean    @default(false)
-  reducedMotion Boolean    @default(false)
-  dyslexiaFont  Boolean    @default(false)
-  user          User       @relation(fields: [userId], references: [id], onDelete: Cascade)
-  classroomId   String?
-  classroom     Classroom? @relation(fields: [classroomId], references: [id], onDelete: SetNull)
-  createdAt     DateTime   @default(now())
-  updatedAt     DateTime   @updatedAt
+  id               String     @id @default(cuid())
+  userId           String     @unique
+  ageGroup         AgeGroup   @default(ADULTS)
+  goal             Goal       @default(FUN)
+  theme            Theme      @default(AUTO)
+  fontScale        Float      @default(1)
+  highContrast     Boolean    @default(false)
+  reducedMotion    Boolean    @default(false)
+  dyslexiaFont     Boolean    @default(false)
+  soundMuted       Boolean    @default(false)
+  leaderboardOptIn Boolean    @default(false)
+  publicNickname   String?
+  mascotOutfit     String     @default("classic")
+  mascotColor      String     @default("sakura")
+  user             User       @relation(fields: [userId], references: [id], onDelete: Cascade)
+  classroomId      String?
+  classroom        Classroom? @relation(fields: [classroomId], references: [id], onDelete: SetNull)
+  createdAt        DateTime   @default(now())
+  updatedAt        DateTime   @updatedAt
 }
 
 model Unit {
@@ -182,6 +189,7 @@ model ReviewCard {
   repetitions    Int       @default(0)
   lastReviewedAt DateTime?
   lastGrade      Int?
+  metadata       String    @default("{}")
   user           User      @relation(fields: [userId], references: [id], onDelete: Cascade)
   lesson         Lesson?   @relation(fields: [lessonId], references: [id], onDelete: SetNull)
 
@@ -203,12 +211,14 @@ model Progress {
 }
 
 model Streak {
-  id             String    @id @default(cuid())
-  userId         String    @unique
-  currentDays    Int       @default(0)
-  longestDays    Int       @default(0)
-  lastActivityAt DateTime?
-  user           User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  id               String    @id @default(cuid())
+  userId           String    @unique
+  currentDays      Int       @default(0)
+  longestDays      Int       @default(0)
+  lastActivityAt   DateTime?
+  freezesAvailable Int       @default(1)
+  lastFreezeAt     DateTime?
+  user             User      @relation(fields: [userId], references: [id], onDelete: Cascade)
 }
 
 model Badge {
@@ -232,13 +242,38 @@ model UserBadge {
 }
 
 model Quest {
-  id          String    @id @default(cuid())
-  slug        String    @unique
+  id          String      @id @default(cuid())
+  slug        String      @unique
   title       String
   description String?
-  rewardXp    Int       @default(0)
+  rewardXp    Int         @default(0)
+  target      Int         @default(1)
+  period      String      @default("daily")
   startsAt    DateTime?
   endsAt      DateTime?
+  userQuests  UserQuest[]
+}
+
+model UserQuest {
+  id          String    @id @default(cuid())
+  userId      String
+  questId     String
+  user        User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  progress    Int       @default(0)
+  completedAt DateTime?
+  assignedAt  DateTime  @default(now())
+  quest       Quest     @relation(fields: [questId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, questId])
+}
+
+model UserStats {
+  id        String   @id @default(cuid())
+  userId    String   @unique
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  xp        Int      @default(0)
+  level     Int      @default(1)
+  updatedAt DateTime @updatedAt
 }
 
 model Classroom {

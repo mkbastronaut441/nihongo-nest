@@ -2591,6 +2591,27 @@ button {
   border: 2px solid #29263d;
 }
 @media (max-width: 760px) {
+  .desktop-nav,
+  .header-cta {
+    display: none;
+  }
+  .mobile-menu-button {
+    display: grid;
+    width: 42px;
+    height: 42px;
+    place-items: center;
+    border: 1px solid var(--line);
+    border-radius: 13px;
+    background: var(--paper);
+    color: var(--indigo);
+  }
+  .mobile-nav {
+    display: grid;
+    gap: 3px;
+    border-top: 1px solid var(--line);
+    padding: 8px 17px 15px;
+    background: var(--washi);
+  }
   .learning-page {
     padding-top: 32px;
   }
@@ -3367,4 +3388,267 @@ button {
   .lesson-celebration {
     padding: 23px 16px;
   }
+}
+/* Phase 4: journey, community and daily play surfaces */
+.journey-page,
+.profile-page,
+.achievements-page,
+.leaderboard-page,
+.quick-lesson {
+  padding-top: 3rem;
+  padding-bottom: 6rem;
+}
+.journey-heading {
+  position: relative;
+  margin: 0 auto 1.5rem;
+  max-width: 760px;
+  text-align: center;
+}
+.journey-heading h1,
+.achievements-page h1,
+.leaderboard-page h1 {
+  margin: 0.45rem 0;
+  font-size: clamp(2rem, 5vw, 3.2rem);
+}
+.journey-heading p,
+.achievements-page > p,
+.leaderboard-page > p {
+  color: var(--text-muted, #666);
+  font-size: 1.05rem;
+}
+.journey-heading .mascot {
+  justify-content: center;
+}
+.journey-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(220px, 0.7fr);
+  align-items: center;
+  max-width: 900px;
+  margin: auto;
+  padding: clamp(1.2rem, 4vw, 2.5rem);
+  background: var(--surface, #fffdf8);
+}
+.journey-art {
+  height: min(74vh, 650px);
+  min-height: 420px;
+  display: flex;
+  justify-content: center;
+}
+.japan-journey {
+  height: 100%;
+  max-width: 100%;
+  overflow: visible;
+  --journey-land: #f4d9c9;
+  --journey-line: #cfad9d;
+  --journey-path: #c88c73;
+  --journey-glow: #f3b2bd;
+  --journey-open: #d57e91;
+  --journey-closed: #aeb0be;
+}
+.journey-label {
+  font:
+    700 12px var(--font-nunito),
+    sans-serif;
+  fill: var(--text, #35376f);
+}
+.journey-stops {
+  padding: 1rem;
+}
+.journey-stops p {
+  margin: 0 0 1.1rem;
+}
+.journey-stops strong {
+  font-size: 1.3rem;
+}
+.phase4-stats,
+.phase4-columns,
+.profile-grid,
+.achievement-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+.phase4-stats > *,
+.phase4-columns > *,
+.profile-grid > *,
+.achievement-grid > * {
+  padding: 1.35rem;
+}
+.phase4-stats strong {
+  display: block;
+  font-size: 1.65rem;
+  margin: 0.4rem 0;
+}
+.phase4-stats small {
+  display: block;
+  color: var(--text-muted, #666);
+  margin-bottom: 0.7rem;
+}
+.phase4-columns {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: start;
+}
+.phase4-columns h2,
+.profile-grid h2,
+.achievement-card h2 {
+  margin: 0.5rem 0;
+}
+.quest-list {
+  display: grid;
+  gap: 0.5rem;
+  margin: 1rem 0 1.2rem;
+}
+.quest-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.7rem;
+  padding: 0.8rem;
+  border-radius: 14px;
+  background: var(--surface-soft, #f8f4eb);
+}
+.quest-row > div {
+  display: grid;
+  gap: 0.2rem;
+}
+.quest-row small {
+  color: var(--text-muted, #666);
+}
+.quest-row > span {
+  font-weight: 800;
+  white-space: nowrap;
+  font-size: 0.88rem;
+}
+.weekly-note {
+  margin: 1rem 0 0;
+  color: var(--text-muted, #666);
+}
+.dashboard-map-link {
+  margin-top: 1.2rem;
+}
+.gamified-dashboard {
+  padding-bottom: 6rem;
+}
+.profile-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+.profile-level {
+  font-size: 1.35rem;
+  font-weight: 900;
+  color: var(--brand-indigo);
+}
+.achievement-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin-top: 1.5rem;
+}
+.achievement-card {
+  opacity: 0.68;
+  transition:
+    opacity 0.2s,
+    border-color 0.2s;
+}
+.achievement-card.is-earned {
+  opacity: 1;
+  border-color: var(--brand-gold, #e8b951);
+}
+.achievement-emoji {
+  font-size: 2.4rem;
+}
+.achievement-card strong {
+  font-size: 0.9rem;
+  color: var(--brand-indigo);
+}
+.leaderboard-page > section {
+  max-width: 680px;
+  margin: 1.5rem auto;
+}
+.leaderboard-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.leaderboard-list li {
+  display: grid;
+  grid-template-columns: 38px 1fr auto;
+  align-items: center;
+  gap: 0.8rem;
+  padding: 0.9rem 0.4rem;
+  border-bottom: 1px solid #ece6da;
+}
+.leader-rank {
+  display: grid;
+  place-items: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: var(--surface-soft, #f8f4eb);
+  font-weight: 900;
+}
+.privacy-note {
+  margin-bottom: 1rem;
+}
+.privacy-note p {
+  margin: 0.5rem 0;
+}
+.quick-lesson > section,
+.quick-lesson > .card {
+  max-width: 660px;
+  margin: 4rem auto;
+  padding: clamp(1.5rem, 5vw, 3rem);
+  text-align: center;
+}
+.quick-lesson h1 {
+  font-size: clamp(2rem, 5vw, 3rem);
+}
+.quick-clock {
+  font-size: clamp(3rem, 12vw, 6rem);
+  font-weight: 900;
+  font-variant-numeric: tabular-nums;
+  color: var(--brand-indigo);
+  margin: 1rem 0;
+}
+.quick-lesson .card > a {
+  display: inline-block;
+  margin: 0.7rem;
+}
+@media (max-width: 760px) {
+  .journey-card {
+    grid-template-columns: 1fr;
+  }
+  .journey-art {
+    height: 560px;
+    min-height: 0;
+  }
+  .journey-stops {
+    text-align: center;
+  }
+  .phase4-stats,
+  .profile-grid {
+    grid-template-columns: 1fr;
+  }
+  .phase4-columns,
+  .achievement-grid {
+    grid-template-columns: 1fr;
+  }
+  .quest-row {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .journey-page,
+  .profile-page,
+  .achievements-page,
+  .leaderboard-page {
+    padding-top: 2rem;
+  }
+}
+.mascot-color-chip {
+  display: inline-block;
+  width: 0.62rem;
+  height: 0.62rem;
+  border: 2px solid white;
+  border-radius: 50%;
+  margin-left: 0.08rem;
+  vertical-align: top;
+  box-shadow: 0 1px 3px #0003;
 }
